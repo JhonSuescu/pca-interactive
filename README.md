@@ -1,2 +1,2 @@
-# pca-interactive
-Interactive 3D PCA visualizations for functional genomic data.
+# interactive_plots
+Interactive plots PhD thesis.
