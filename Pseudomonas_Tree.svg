@@ -107,9 +107,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="3.5897436"
-     inkscape:cx="434.15357"
-     inkscape:cy="727.21071"
+     inkscape:zoom="0.8974359"
+     inkscape:cx="332.05714"
+     inkscape:cy="293.61428"
      inkscape:window-width="1600"
      inkscape:window-height="1201"
      inkscape:window-x="2391"
@@ -7448,11 +7448,11 @@
            xml:space="preserve"><tspan
              x="1005"
              y="5.0999999"
-             id="tspan3"><tspan
+             id="tspan58"><tspan
    style="font-style:italic"
-   id="tspan1">Pseudomonas zarinae</tspan> SWRI108<tspan
+   id="tspan35">Pseudomonas zarinae</tspan> SWRI108<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan2">T</tspan></tspan></text>
+   id="tspan50">T</tspan></tspan></text>
         <path
            d="m -906.41766,222.61879 4.73384,-1.16265"
            fill="none"
@@ -10947,11 +10947,11 @@
            xml:space="preserve"><tspan
              x="1005"
              y="5.0999999"
-             id="tspan6"><tspan
+             id="tspan178"><tspan
    style="font-style:italic"
-   id="tspan4">Pseudomonas lutea</tspan> DSM 17257<tspan
+   id="tspan80">Pseudomonas lutea</tspan> DSM 17257<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan5">T</tspan></tspan></text>
+   id="tspan81">T</tspan></tspan></text>
         <path
            d="m 199.58584,956.38835 -0.901,-4.31745"
            fill="none"
@@ -12677,11 +12677,11 @@
            xml:space="preserve"><tspan
              x="-1005"
              y="5.0999999"
-             id="tspan9"><tspan
+             id="tspan181"><tspan
    style="font-style:italic"
-   id="tspan7">Pseudomonas oryziphila</tspan> 1257<tspan
+   id="tspan179">Pseudomonas oryziphila</tspan> 1257<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan8">T</tspan></tspan></text>
+   id="tspan180">T</tspan></tspan></text>
         <path
            d="m 770.09229,504.70677 -6.67144,-4.37236"
            fill="none"
@@ -30864,7 +30864,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#ffd966;fill-opacity:1;stroke:#ffd966;stroke-opacity:1"
+           style="mix-blend-mode:normal;fill:#ffff99;fill-opacity:1;stroke:#ffff99;stroke-opacity:1"
            id="path953" />
         <path
            d="m 1150.4287,-848.0653 20.9281,-15.42767 c -9.8229,-13.32511 -19.8725,-26.48164 -30.1443,-39.46384 l -20.3896,16.13275 c 10.0884,12.75025 19.9584,25.67171 29.6058,38.75875"
@@ -31442,7 +31442,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#ffd966;fill-opacity:1;stroke:#ffd966;stroke-opacity:1"
+           style="mix-blend-mode:normal;fill:#ffff99;fill-opacity:1;stroke:#ffff99;stroke-opacity:1"
            id="path987" />
         <path
            d="m 679.94842,1257.1281 12.36935,22.8692 c 14.56098,-7.8757 28.98652,-15.9992 43.27031,-24.3671 l -13.14244,-22.4339 c -14.02859,8.2184 -28.19639,16.1968 -42.49721,23.9318"
@@ -31816,8 +31816,9 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal;fill:#ffd966;fill-opacity:1;stroke:#ffd966;stroke-opacity:1"
-           id="path1009" />
+           style="mix-blend-mode:normal;fill:#ffff99;fill-opacity:1;stroke:#ffff99;stroke-opacity:1"
+           id="path1009"
+           sodipodi:nodetypes="ccccc" />
         <path
            d="m -724.8491,-1231.7852 -13.18617,-22.4081 c -14.26744,8.3957 -28.39059,17.0343 -42.36326,25.9119 l 13.94305,21.9452 c 13.72303,-8.719 27.59384,-17.2032 41.60637,-25.449"
            fill="#7accb1"
@@ -35744,7 +35745,8 @@
            font-size="none"
            text-anchor="none"
            style="mix-blend-mode:normal"
-           id="path1240" />
+           id="path1240"
+           sodipodi:nodetypes="csssccsssc" />
       </g>
       <g
          fill="none"
@@ -46275,7 +46277,7 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal"
+         style="mix-blend-mode:normal;fill:#ffff99;fill-opacity:1"
          id="rect1615" />
       <text
          x="97"
