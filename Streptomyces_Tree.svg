@@ -7,12 +7,33 @@
    id="svg2748"
    sodipodi:docname="Streptomyces_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Streptomyces_Tree.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2748">
+    <rect
+       x="203.80582"
+       y="-328.07767"
+       width="807.76699"
+       height="42.252427"
+       id="rect161" />
+    <rect
+       x="421.28155"
+       y="-126.75728"
+       width="474.71845"
+       height="19.883495"
+       id="rect157" />
+    <rect
+       x="249.56064"
+       y="-418.27769"
+       width="295.25484"
+       height="123.02285"
+       id="rect58" />
     <rect
        x="564.36731"
        y="742.97015"
@@ -48,12 +69,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.56899999"
-     inkscape:cx="621.26539"
-     inkscape:cy="311.9508"
-     inkscape:window-width="1600"
-     inkscape:window-height="1201"
-     inkscape:window-x="2391"
+     inkscape:zoom="1.609375"
+     inkscape:cx="442.09709"
+     inkscape:cy="325.28155"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2748" />
@@ -4832,7 +4853,7 @@
              xml:space="preserve"><tspan
                x="-1045.4727"
                y="3.9000001"
-               id="tspan20">4326</tspan></text>
+               id="tspan17">4326</tspan></text>
           <text
              x="-1012.9409"
              y="3.9000001"
@@ -13671,7 +13692,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path399" />
         <g
            fill="#000000"
@@ -35588,8 +35609,10 @@
              font-style="italic"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
-             id="text1047">syringium</text>
+             style="font-style:italic;font-size:13px;font-family:Arial;text-anchor:start;mix-blend-mode:normal;fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+             id="text1047"><tspan
+               sodipodi:role="line"
+               id="tspan20">syringius</tspan></text>
           <text
              x="-1085.2026"
              y="3.9000001"
@@ -80547,4 +80570,16 @@
      x="0.50078499"
      y="0.50078499"
      ry="8.7873468" />
+  <text
+     xml:space="preserve"
+     id="text58"
+     style="fill:#beaed4;-inkscape-font-specification:'Sans, Italic';font-family:Sans;font-size:2.91602993px;stroke-width:1.33333333;line-height:normal;text-decoration-color:#000000;white-space:pre;-inkscape-stroke:none;text-align:center;text-orientation:auto;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke:#beaed4;stroke-opacity:1;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect58)" />
+  <text
+     xml:space="preserve"
+     id="text157"
+     style="fill:#beaed4;-inkscape-font-specification:'Sans, Italic';font-family:Sans;font-size:2.91602993px;stroke-width:1.33333333;line-height:normal;text-decoration-color:#000000;white-space:pre;-inkscape-stroke:none;text-align:center;text-orientation:auto;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke:#beaed4;stroke-opacity:1;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect157)" />
+  <text
+     xml:space="preserve"
+     id="text161"
+     style="fill:#beaed4;-inkscape-font-specification:'Sans, Italic';font-family:Sans;font-size:2.91602993px;stroke-width:1.33333333;line-height:normal;text-decoration-color:#000000;white-space:pre;-inkscape-stroke:none;text-align:center;text-orientation:auto;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke:#beaed4;stroke-opacity:1;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect161)" />
 </svg>
