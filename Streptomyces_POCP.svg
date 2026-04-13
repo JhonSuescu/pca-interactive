@@ -5,14 +5,24 @@
    viewBox="0 0 1584.00 1584.00"
    version="1.1"
    id="svg10634"
-   sodipodi:docname="POCP_heatmap_antidiagonal.svg"
+   sodipodi:docname="Streptomyces_POCP.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Streptomyces_POCP.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs10634" />
+     id="defs10634">
+    <rect
+       x="1728.2982"
+       y="2119.8708"
+       width="413.2174"
+       height="19.021118"
+       id="rect10372" />
+  </defs>
   <sodipodi:namedview
      id="namedview10634"
      pagecolor="#ffffff"
@@ -25,8 +35,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.3811553"
-     inkscape:cx="1159.6323"
-     inkscape:cy="1082.236"
+     inkscape:cx="1516.4422"
+     inkscape:cy="1008.7752"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -73699,9 +73709,11 @@
          style="font-size:12px;font-family:Arial"
          textLength="122.7"
          lengthAdjust="spacingAndGlyphs"
-         id="text10372"><tspan
+         id="text10372">&quot;<tspan
    style="font-style:italic"
-   id="tspan10634">S. solaniscabiei</tspan> FS70T</text>
+   id="tspan10634">S. solaniscabiei</tspan> FS70<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan2">T</tspan>&quot;</text>
       <text
          x="206.92999"
          y="84.849998"
@@ -73861,11 +73873,11 @@
          style="font-size:12px;font-family:Arial"
          textLength="132.48"
          lengthAdjust="spacingAndGlyphs"
-         id="text10388"><tspan
+         id="text10388">&quot;<tspan
    style="font-style:italic"
    id="tspan10653">S. albicerus</tspan> TRM 68295<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10650">T</tspan></text>
+   id="tspan3">T</tspan>&quot;</text>
       <text
          x="206.93"
          y="382.68"
@@ -73945,11 +73957,11 @@
          style="font-size:12px;font-family:Arial"
          textLength="121.81"
          lengthAdjust="spacingAndGlyphs"
-         id="text10396"><tspan
+         id="text10396">&quot;<tspan
    style="font-style:italic"
    id="tspan10663">S. vilmorinianum</tspan> YP1<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10661">T</tspan></text>
+   id="tspan4">T</tspan>&quot;</text>
       <text
          x="206.93"
          y="531.59"
@@ -74846,11 +74858,11 @@
          style="font-size:12px;font-family:Arial"
          textLength="121.81"
          lengthAdjust="spacingAndGlyphs"
-         id="text10489"><tspan
+         id="text10489">&quot;<tspan
    style="font-style:italic"
    id="tspan10765">S. vilmorinianum </tspan>YP1<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10766">T</tspan></text>
+   id="tspan5">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,1213.57,163.5)"
          text-anchor="end"
@@ -74922,11 +74934,11 @@
          style="font-size:12px;font-family:Arial"
          textLength="132.48"
          lengthAdjust="spacingAndGlyphs"
-         id="text10497"><tspan
+         id="text10497">&quot;<tspan
    style="font-style:italic"
    id="tspan10775">S. albicerus</tspan> TRM 68295<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10776">T</tspan></text>
+   id="tspan6">T</tspan>&quot;</text>
       <text
          transform="translate(1190.87,1377.07) rotate(-90)"
          text-anchor="end"
@@ -75070,11 +75082,11 @@
          style="font-size:12px;font-family:Arial"
          textLength="122.7"
          lengthAdjust="spacingAndGlyphs"
-         id="text10513"><tspan
+         id="text10513">&quot;<tspan
    style="font-style:italic"
    id="tspan10794">S. solaniscabiei</tspan> FS70<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10795">T</tspan></text>
+   id="tspan10373">T</tspan>&quot;</text>
       <text
          transform="translate(1472.47,1377.07) rotate(-90)"
          text-anchor="end"
@@ -75935,4 +75947,9 @@
          id="line10633" />
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     transform="scale(0.75)"
+     id="text6"
+     style="-inkscape-font-specification:Arial;font-family:Arial;font-size:13.33333333px;line-height:normal;text-decoration-color:#000000;white-space:pre;text-align:center;text-orientation:auto;stroke-linecap:square;fill:none;writing-mode:lr-tb;direction:ltr;shape-inside:url(#rect10372)" />
 </svg>
