@@ -7,12 +7,27 @@
    id="svg10746"
    sodipodi:docname="Streptomyces_aai_ani_hm.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Streptomyces_aai_ani_hm.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs10746">
+    <rect
+       x="1186.3355"
+       y="1912.0601"
+       width="362.38545"
+       height="29.563023"
+       id="rect10619" />
+    <rect
+       x="248.90158"
+       y="1890.603"
+       width="512.10786"
+       height="16.688804"
+       id="rect10372" />
     <rect
        x="-927.87739"
        y="2179.4329"
@@ -30,12 +45,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.4829545"
-     inkscape:cx="1602.8812"
-     inkscape:cy="1719.2031"
-     inkscape:window-width="1600"
-     inkscape:window-height="1201"
-     inkscape:window-x="2391"
+     inkscape:zoom="0.37073864"
+     inkscape:cx="1103.2031"
+     inkscape:cy="1196.2605"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10746" />
@@ -72838,11 +72853,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="102.28"
          lengthAdjust="spacingAndGlyphs"
-         id="text10372"><tspan
+         id="text10372">&quot;<tspan
    style="font-style:italic"
    id="tspan10746">S. solaniscabiei</tspan> FS70<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10758">T</tspan></text>
+   id="tspan2">T</tspan>&quot;</text>
       <text
          x="207.03"
          y="165.84"
@@ -73002,11 +73017,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="110.42"
          lengthAdjust="spacingAndGlyphs"
-         id="text10388"><tspan
+         id="text10388">&quot;<tspan
    style="font-style:italic"
    id="tspan10755">S. albicerus</tspan> TRM68295<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10767">T</tspan></text>
+   id="tspan5">T</tspan>&quot;</text>
       <text
          x="207.03"
          y="437.97"
@@ -73086,11 +73101,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="101.52"
          lengthAdjust="spacingAndGlyphs"
-         id="text10396"><tspan
+         id="text10396">&quot;<tspan
    style="font-style:italic"
    id="tspan10775">S. vilmorinianum</tspan> YP1<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10772">T</tspan></text>
+   id="tspan3">T</tspan>&quot;</text>
       <text
          x="207.03"
          y="574.03003"
@@ -73358,7 +73373,9 @@
          style="font-size:10px;font-family:Arial"
          textLength="155.03"
          lengthAdjust="spacingAndGlyphs"
-         id="text10422">S. lacrimifluminis CGMCC 4.7272<tspan
+         id="text10422"><tspan
+   style="font-style:italic"
+   id="tspan4">S. lacrimifluminis</tspan> CGMCC 4.7272<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan10807">T</tspan></text>
       <text
@@ -73985,11 +74002,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="101.52"
          lengthAdjust="spacingAndGlyphs"
-         id="text10489"><tspan
+         id="text10489">&quot;<tspan
    style="font-style:italic"
    id="tspan10873">S. vilmorinianum </tspan>YP1<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10888">T</tspan></text>
+   id="tspan10622">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,1184.23,162.91)"
          text-anchor="end"
@@ -74061,11 +74078,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="110.42"
          lengthAdjust="spacingAndGlyphs"
-         id="text10497"><tspan
+         id="text10497">&quot;<tspan
    style="font-style:italic"
    id="tspan10880">S. albicerus</tspan> TRM68295<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10893">T</tspan></text>
+   id="tspan10620">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,1252.26,94.88)"
          text-anchor="end"
@@ -74209,11 +74226,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="102.28"
          lengthAdjust="spacingAndGlyphs"
-         id="text10513"><tspan
+         id="text10513">&quot;<tspan
    style="font-style:italic"
    id="tspan10902">S. solaniscabiei </tspan>FS70<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan10908">T</tspan></text>
+   id="tspan10621">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,1388.325,-41.185)"
          text-anchor="end"
@@ -75887,5 +75904,15 @@
        transform="matrix(0.75,0,0,0.75,46.380241,81.299024)"
        id="text10825"
        style="font-size:14.6667px;line-height:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10825);display:inline;fill:#4d4d4d;stroke-linecap:square" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.75,0,0,0.75,46.380241,81.299024)"
+       id="text5"
+       style="font-size:13.3333px;line-height:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10372);display:inline;fill:none;stroke-linecap:square" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.75,0,0,0.75,46.380241,81.299024)"
+       id="text10521"
+       style="font-size:13.3333px;line-height:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10619);display:inline;fill:none;stroke-linecap:square" />
   </g>
 </svg>
