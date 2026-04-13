@@ -7,7 +7,7 @@
    id="svg705"
    sodipodi:docname="Rhizobium_Tree_editar.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="Rhizobium_Tree.png"
+   inkscape:export-filename="C:\Users\JHONS\Rhizobium_Tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -38,15 +38,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="502.75292"
-     inkscape:cy="384.13576"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="416.5"
+     inkscape:cy="291.5"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg705"
+     inkscape:current-layer="mainHolder"
      showgrid="false" />
   <path
      style="fill:none;stroke:#f00000;stroke-width:1.21768;stroke-linecap:square;stroke-opacity:0.2"
@@ -917,8 +917,8 @@
            style="mix-blend-mode:normal"
            id="g20">
           <text
-             x="-1686.7754"
-             y="14.1"
+             x="-1706.0325"
+             y="14.364309"
              transform="rotate(142.65625)"
              fill="#000000"
              fill-rule="nonzero"
@@ -934,7 +934,9 @@
              font-size="47px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text17">Rhizobium</text>
+             id="text17"><tspan
+   style="font-style:normal"
+   id="tspan5">&quot;</tspan>Rhizobium</text>
           <text
              x="-1451.6836"
              y="14.1"
@@ -993,7 +995,7 @@
              style="mix-blend-mode:normal"
              id="text20">12A2<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan770">T</tspan></text>
+   id="tspan770">T</tspan>&quot;</text>
         </g>
         <path
            d="m 743.22514,-567.08321 -24.10646,18.39331"
@@ -8166,8 +8168,8 @@
            style="mix-blend-mode:normal"
            id="g211">
           <text
-             x="-1843.6104"
-             y="14.1"
+             x="-1861.4872"
+             y="17.344456"
              transform="rotate(-141.71875)"
              fill="#000000"
              fill-rule="nonzero"
@@ -8183,7 +8185,9 @@
              font-size="47px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text208">Rhizobium</text>
+             id="text208"><tspan
+   style="font-style:normal"
+   id="tspan4">&quot;</tspan>Rhizobium</text>
           <text
              x="-1608.5186"
              y="14.1"
@@ -8242,7 +8246,7 @@
              style="mix-blend-mode:normal"
              id="text211">3464<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan714">T</tspan></text>
+   id="tspan714">T</tspan>&quot;</text>
         </g>
         <path
            d="M 640.333,505.36438 594.20364,468.95811"
@@ -8748,8 +8752,8 @@
            style="mix-blend-mode:normal"
            id="g227">
           <text
-             x="-1715.5537"
-             y="14.1"
+             x="-1729.97"
+             y="15.417134"
              transform="rotate(-163.59375)"
              fill="#000000"
              fill-rule="nonzero"
@@ -8765,7 +8769,7 @@
              font-size="47px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text224">Rhizobium</text>
+             id="text224">&quot;Rhizobium</text>
           <text
              x="-1480.4619"
              y="14.1"
@@ -8824,7 +8828,7 @@
              style="mix-blend-mode:normal"
              id="text227">3968<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan711">T</tspan></text>
+   id="tspan711">T</tspan>&quot;</text>
         </g>
         <path
            d="M 810.62308,238.67543 735.80224,216.64559"
@@ -21986,7 +21990,7 @@
      y="339.7648"
      id="text32"><tspan
        sodipodi:role="line"
-       id="tspan32"></tspan></text>
+       id="tspan32" /></text>
   <text
      xml:space="preserve"
      style="font-weight:bold;font-size:13.3333px;line-height:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;fill:none;stroke:#f00000;stroke-linecap:square;stroke-opacity:1"
@@ -21994,5 +21998,5 @@
      y="331.98663"
      id="text137"><tspan
        sodipodi:role="line"
-       id="tspan33"></tspan></text>
+       id="tspan33" /></text>
 </svg>
