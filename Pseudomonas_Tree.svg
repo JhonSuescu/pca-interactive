@@ -110,15 +110,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.269166"
-     inkscape:cx="317.92531"
-     inkscape:cy="332.89577"
+     inkscape:zoom="5.076664"
+     inkscape:cx="502.69232"
+     inkscape:cy="231.5497"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1632" />
+     inkscape:current-layer="svg1632"
+     showgrid="false" />
   <path
      style="fill:none;fill-opacity:0.0977273;stroke:#f00000;stroke-width:1.05052;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.2"
      id="path3-6"
@@ -3048,11 +3049,11 @@
            font-size="17px"
            text-anchor="end"
            style="mix-blend-mode:normal"
-           id="text76"><tspan
+           id="text76">&quot;<tspan
    style="font-style:italic"
    id="tspan110">Pseudomonas mercuritolerans</tspan> SAICEUPSM<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan120">T</tspan></text>
+   id="tspan120">T</tspan>&quot;</text>
         <path
            d="m 195.71468,-956.47741 -0.71699,3.50402"
            fill="none"
@@ -7553,11 +7554,11 @@
            xml:space="preserve"><tspan
              x="1005"
              y="5.0999999"
-             id="tspan9"><tspan
+             id="tspan181"><tspan
    style="font-style:italic"
-   id="tspan5">Pseudomonas zarinae</tspan> SWRI108<tspan
+   id="tspan179">Pseudomonas zarinae</tspan> SWRI108<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan7">T</tspan></tspan></text>
+   id="tspan180">T</tspan></tspan></text>
         <path
            d="m -906.41766,222.61879 4.73384,-1.16265"
            fill="none"
@@ -8323,11 +8324,11 @@
            font-size="17px"
            text-anchor="start"
            style="mix-blend-mode:normal"
-           id="text225"><tspan
+           id="text225">&quot;<tspan
    style="font-style:italic"
    id="tspan1774">Pseudomonas agronomica</tspan> SAICEU22<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1785">T</tspan></text>
+   id="tspan1785">T</tspan>&quot;</text>
         <path
            d="m -789.51001,519.63659 1.16066,-0.76392"
            fill="none"
@@ -8397,11 +8398,11 @@
            font-size="17px"
            text-anchor="start"
            style="mix-blend-mode:normal"
-           id="text227"><tspan
+           id="text227">&quot;<tspan
    style="font-style:italic"
    id="tspan1773">Pseudomonas algeriensis</tspan> NR3<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1784">T</tspan></text>
+   id="tspan1784">T</tspan>&quot;</text>
         <path
            d="m -773.12297,547.54872 22.55201,-15.972"
            fill="none"
@@ -11052,11 +11053,11 @@
            xml:space="preserve"><tspan
              x="1005"
              y="5.0999999"
-             id="tspan58"><tspan
+             id="tspan186"><tspan
    style="font-style:italic"
-   id="tspan35">Pseudomonas lutea</tspan> DSM 17257<tspan
+   id="tspan184">Pseudomonas lutea</tspan> DSM 17257<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan50">T</tspan></tspan></text>
+   id="tspan185">T</tspan></tspan></text>
         <path
            d="m 199.58584,956.38835 -0.901,-4.31745"
            fill="none"
@@ -11894,7 +11895,11 @@
            font-size="17px"
            text-anchor="end"
            style="mix-blend-mode:normal"
-           id="text328">Pseudomonas eucalypticola NP-1T</text>
+           id="text328">&quot;<tspan
+   style="font-style:italic"
+   id="tspan188">Pseudomonas eucalypticola</tspan> NP-1<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan187">T</tspan>&quot;</text>
         <path
            d="M 482.29532,734.33367 447.21816,680.92586"
            fill="none"
@@ -12186,11 +12191,11 @@
            font-size="17px"
            text-anchor="end"
            style="mix-blend-mode:normal"
-           id="text336"><tspan
+           id="text336">&quot;<tspan
    style="font-style:italic"
    id="tspan1685">Pseudomonas capeferrum</tspan> WCS358<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1680">T</tspan></text>
+   id="tspan1680">T</tspan>&quot;</text>
         <path
            d="M 612.97908,702.24251 584.30686,669.39497"
            fill="none"
@@ -12260,11 +12265,11 @@
            font-size="17px"
            text-anchor="end"
            style="mix-blend-mode:normal"
-           id="text338"><tspan
+           id="text338">&quot;<tspan
    style="font-style:italic"
    id="tspan1684">Pseudomonas faucium</tspan> BML-PP048<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1679">T</tspan></text>
+   id="tspan1679">T</tspan>&quot;</text>
         <path
            d="M 626.09007,669.69549 612.55173,655.21425"
            fill="none"
@@ -12782,11 +12787,11 @@
            xml:space="preserve"><tspan
              x="-1005"
              y="5.0999999"
-             id="tspan178"><tspan
+             id="tspan191">&quot;<tspan
    style="font-style:italic"
-   id="tspan80">Pseudomonas oryziphila</tspan> 1257<tspan
+   id="tspan189">Pseudomonas oryziphila</tspan> 1257<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan81">T</tspan></tspan></text>
+   id="tspan190">T</tspan>&quot;</tspan></text>
         <path
            d="m 770.09229,504.70677 -6.67144,-4.37236"
            fill="none"
@@ -13463,11 +13468,11 @@
            font-size="17px"
            text-anchor="end"
            style="mix-blend-mode:normal"
-           id="text371"><tspan
+           id="text371">&quot;<tspan
    style="font-style:italic"
    id="tspan1642">Pseudomonas qingdaonensis</tspan> JJ3<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1651">T</tspan></text>
+   id="tspan1651">T</tspan>&quot;</text>
         <path
            d="m 830.3429,232.49932 -1.75203,-0.49057"
            fill="none"
@@ -13611,11 +13616,11 @@
            font-size="17px"
            text-anchor="end"
            style="mix-blend-mode:normal"
-           id="text375"><tspan
+           id="text375">&quot;<tspan
    style="font-style:italic"
    id="tspan1640">Pseudomonas flavocrustae</tspan> CBMAI 2609<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1649">T</tspan></text>
+   id="tspan1649">T</tspan>&quot;</text>
         <path
            d="m 836.27016,173.66799 -4.81728,-1.0004"
            fill="none"
