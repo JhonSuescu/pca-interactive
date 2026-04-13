@@ -69,12 +69,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.138"
-     inkscape:cx="283.39192"
-     inkscape:cy="619.94729"
-     inkscape:window-width="1600"
-     inkscape:window-height="1201"
-     inkscape:window-x="2391"
+     inkscape:zoom="8.1237264"
+     inkscape:cx="658.44168"
+     inkscape:cy="210.67918"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2748" />
@@ -2115,8 +2115,8 @@
            style="mix-blend-mode:normal"
            id="g57">
           <text
-             x="-1192.8525"
-             y="3.9000001"
+             x="-1197.9354"
+             y="3.4374936"
              transform="rotate(153.54701)"
              fill="#000000"
              fill-rule="nonzero"
@@ -2132,7 +2132,7 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text53">Streptomyces</text>
+             id="text53">&quot;Streptomyces</text>
           <text
              x="-1109.7681"
              y="3.9000001"
@@ -2207,10 +2207,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text57"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan74">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan74"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan33">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m 870.08308,-432.91647 -35.56952,17.69788"
@@ -4973,7 +4975,7 @@
              xml:space="preserve"><tspan
                x="-1045.4727"
                y="3.9000001"
-               id="tspan22">4326</tspan></text>
+               id="tspan12">4326</tspan></text>
           <text
              x="-1012.9409"
              y="3.9000001"
@@ -7407,8 +7409,8 @@
            style="mix-blend-mode:normal"
            id="g214">
           <text
-             x="-1208.7534"
-             y="3.9000001"
+             x="-1213.6997"
+             y="4.3787313"
              transform="rotate(104.18803)"
              fill="#000000"
              fill-rule="nonzero"
@@ -7424,7 +7426,7 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text211">Streptomyces</text>
+             id="text211">&quot;Streptomyces</text>
           <text
              x="-1125.6689"
              y="3.9000001"
@@ -7480,10 +7482,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text214"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan47">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan47"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan31">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m 229.76356,-908.81479 -0.71944,2.84568"
@@ -7718,8 +7722,8 @@
            style="mix-blend-mode:normal"
            id="g224">
           <text
-             x="-1253.5234"
-             y="3.9000001"
+             x="-1258.5826"
+             y="3.9525654"
              transform="rotate(101.19658)"
              fill="#000000"
              fill-rule="nonzero"
@@ -7735,7 +7739,7 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text220">Streptomyces</text>
+             id="text220">&quot;Streptomyces</text>
           <text
              x="-1170.439"
              y="3.9000001"
@@ -7810,10 +7814,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text224"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan45">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan45"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan28">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m 177.04293,-894.41223 -12.79961,64.66302"
@@ -9491,8 +9497,8 @@
            style="mix-blend-mode:normal"
            id="g276">
           <text
-             x="-1219.5952"
-             y="3.9000001"
+             x="-1225.666"
+             y="3.7069418"
              transform="rotate(84.74359)"
              fill="#000000"
              fill-rule="nonzero"
@@ -9508,7 +9514,7 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text273">Streptomyces</text>
+             id="text273">&quot;Streptomyces</text>
           <text
              x="-1136.5107"
              y="3.9000001"
@@ -9566,8 +9572,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text276"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan12">T</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan25">T</tspan>&quot;</text>
         </g>
         <path
            d="m -81.10589,-881.58654 6.2146,67.55008"
@@ -12322,10 +12328,10 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text355">Streptomyces</text>
+             id="text355">&quot;Streptomyces</text>
           <text
-             x="1088.0845"
-             y="3.9000001"
+             x="1093.0199"
+             y="4.0878305"
              transform="rotate(-122.17949)"
              fill="#000000"
              fill-rule="nonzero"
@@ -12343,8 +12349,8 @@
              style="mix-blend-mode:normal"
              id="text356">dioscori</text>
           <text
-             x="1136.4917"
-             y="3.9000001"
+             x="1141.4271"
+             y="4.0878305"
              transform="rotate(-122.17949)"
              fill="#000000"
              fill-rule="nonzero"
@@ -12362,8 +12368,8 @@
              style="mix-blend-mode:normal"
              id="text357">A217</text>
           <text
-             x="1170.4644"
-             y="3.9000001"
+             x="1175.3998"
+             y="4.0878305"
              transform="rotate(-122.17949)"
              fill="#000000"
              fill-rule="nonzero"
@@ -12378,10 +12384,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text358"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2884">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2884"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan26">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m -491.65582,-781.35644 14.72409,23.40004"
@@ -13685,10 +13693,10 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text394">Streptomyces</text>
+             id="text394">&quot;Streptomyces</text>
           <text
-             x="1088.0845"
-             y="3.9000001"
+             x="1093.4324"
+             y="3.1177766"
              transform="rotate(-135.64103)"
              fill="#000000"
              fill-rule="nonzero"
@@ -13706,8 +13714,8 @@
              style="mix-blend-mode:normal"
              id="text395">albicerus</text>
           <text
-             x="1143.7217"
-             y="3.9000001"
+             x="1149.0696"
+             y="3.1177766"
              transform="rotate(-135.64103)"
              fill="#000000"
              fill-rule="nonzero"
@@ -13725,8 +13733,8 @@
              style="mix-blend-mode:normal"
              id="text396">TRM68295</text>
           <text
-             x="1211.6416"
-             y="3.9000001"
+             x="1216.9895"
+             y="3.1177766"
              transform="rotate(-135.64103)"
              fill="#000000"
              fill-rule="nonzero"
@@ -13741,10 +13749,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text397"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2877">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2877"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan23">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m -604.0987,-590.73038 6.82442,6.6734"
@@ -16053,10 +16063,10 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text464">Streptomyces</text>
+             id="text464">&quot;Streptomyces</text>
           <text
-             x="1088.0845"
-             y="3.9000001"
+             x="1093.3082"
+             y="3.4611645"
              transform="rotate(-158.07692)"
              fill="#000000"
              fill-rule="nonzero"
@@ -16074,8 +16084,8 @@
              style="mix-blend-mode:normal"
              id="text465">abyssomicinicus</text>
           <text
-             x="1186.3398"
-             y="3.9000001"
+             x="1191.5636"
+             y="3.4611645"
              transform="rotate(-158.07692)"
              fill="#000000"
              fill-rule="nonzero"
@@ -16093,8 +16103,8 @@
              style="mix-blend-mode:normal"
              id="text466">CHI39</text>
           <text
-             x="1226.7998"
-             y="3.9000001"
+             x="1232.0236"
+             y="3.4611645"
              transform="rotate(-158.07692)"
              fill="#000000"
              fill-rule="nonzero"
@@ -16109,10 +16119,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text467"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2864">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2864"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan17">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m -793.01273,-319.16015 188.74181,75.96204"
@@ -19210,10 +19222,10 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text557">Streptomyces</text>
+             id="text557">&quot;Streptomyces</text>
           <text
-             x="1088.0845"
-             y="3.9000001"
+             x="1093.2742"
+             y="4.3135886"
              transform="rotate(172.00855)"
              fill="#000000"
              fill-rule="nonzero"
@@ -19231,8 +19243,8 @@
              style="mix-blend-mode:normal"
              id="text558">antnestii</text>
           <text
-             x="1140.1162"
-             y="3.9000001"
+             x="1145.3059"
+             y="4.3135886"
              transform="rotate(172.00855)"
              fill="#000000"
              fill-rule="nonzero"
@@ -19250,8 +19262,8 @@
              style="mix-blend-mode:normal"
              id="text559">San01</text>
           <text
-             x="1181.3188"
-             y="3.9000001"
+             x="1186.5085"
+             y="4.3135886"
              transform="rotate(172.00855)"
              fill="#000000"
              fill-rule="nonzero"
@@ -19266,10 +19278,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text560"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2847">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2847"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan24">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m -788.13367,110.64508 59.97093,-8.41924"
@@ -29566,10 +29580,10 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text865">Streptomyces</text>
+             id="text865">&quot;Streptomyces</text>
           <text
-             x="1088.0845"
-             y="3.9000001"
+             x="1094.5828"
+             y="4.1914148"
              transform="rotate(74.78632)"
              fill="#000000"
              fill-rule="nonzero"
@@ -29587,8 +29601,8 @@
              style="mix-blend-mode:normal"
              id="text866">vilmorinianum</text>
           <text
-             x="1171.8862"
-             y="3.9000001"
+             x="1178.3845"
+             y="4.1914148"
              transform="rotate(74.78632)"
              fill="#000000"
              fill-rule="nonzero"
@@ -29606,8 +29620,8 @@
              style="mix-blend-mode:normal"
              id="text867">YP1</text>
           <text
-             x="1200.0698"
-             y="3.9000001"
+             x="1206.5681"
+             y="4.1914148"
              transform="rotate(74.78632)"
              fill="#000000"
              fill-rule="nonzero"
@@ -29624,8 +29638,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text868"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2793">T</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan34">T</tspan>&quot;</text>
         </g>
         <path
            d="M 204.0187,750.20582 187.91,690.97183"
@@ -30480,10 +30494,10 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text891">Streptomyces</text>
+             id="text891">&quot;Streptomyces</text>
           <text
-             x="1088.0845"
-             y="3.9000001"
+             x="1093.1818"
+             y="4.1612644"
              transform="rotate(65.81197)"
              fill="#000000"
              fill-rule="nonzero"
@@ -30501,8 +30515,8 @@
              style="mix-blend-mode:normal"
              id="text892">marianii</text>
           <text
-             x="1137.209"
-             y="3.9000001"
+             x="1142.3063"
+             y="4.1612644"
              transform="rotate(65.81197)"
              fill="#000000"
              fill-rule="nonzero"
@@ -30520,8 +30534,8 @@
              style="mix-blend-mode:normal"
              id="text893">ICN19</text>
           <text
-             x="1177.6689"
-             y="3.9000001"
+             x="1182.7662"
+             y="4.1612644"
              transform="rotate(65.81197)"
              fill="#000000"
              fill-rule="nonzero"
@@ -30536,10 +30550,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text894"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2787">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2787"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan29">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="M 337.05553,750.40167 319.56388,711.45924"
@@ -33940,8 +33956,8 @@
            style="mix-blend-mode:normal"
            id="g997">
           <text
-             x="-1231.8843"
-             y="3.9000001"
+             x="-1237.0425"
+             y="4.3432398"
              transform="rotate(-147.09402)"
              fill="#000000"
              fill-rule="nonzero"
@@ -33957,7 +33973,7 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text994">Streptomyces</text>
+             id="text994">&quot;Streptomyces</text>
           <text
              x="-1148.7998"
              y="3.9000001"
@@ -34013,10 +34029,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text997"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2769">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2769"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan27">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="m 720.41514,466.16417 -12.5424,-8.1159"
@@ -34086,8 +34104,8 @@
            style="mix-blend-mode:normal"
            id="g1002">
           <text
-             x="-1224.6416"
-             y="3.9000001"
+             x="-1229.547"
+             y="3.7265851"
              transform="rotate(-148.58974)"
              fill="#000000"
              fill-rule="nonzero"
@@ -34103,7 +34121,7 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text998">Streptomyces</text>
+             id="text998">&quot;Streptomyces</text>
           <text
              x="-1141.5571"
              y="3.9000001"
@@ -34178,10 +34196,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text1002"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2768">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2768"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan30">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="M 727.42577,444.20134 709.03685,432.97218"
@@ -37181,8 +37201,8 @@
            style="mix-blend-mode:normal"
            id="g1094">
           <text
-             x="-1165.3862"
-             y="3.9000001"
+             x="-1170.8615"
+             y="3.5288072"
              transform="rotate(-177.00855)"
              fill="#000000"
              fill-rule="nonzero"
@@ -37198,7 +37218,7 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text1091">Streptomyces</text>
+             id="text1091">&quot;Streptomyces</text>
           <text
              x="-1082.3018"
              y="3.9000001"
@@ -37254,10 +37274,12 @@
              font-weight="normal"
              font-size="13px"
              text-anchor="start"
-             style="mix-blend-mode:normal"
+             style="baseline-shift:baseline;mix-blend-mode:normal"
              id="text1094"><tspan
-               style="font-size:65%;baseline-shift:super"
-               id="tspan2749">T</tspan></text>
+               style="baseline-shift:baseline"
+               id="tspan2749"><tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan32">T</tspan>&quot;</tspan></text>
         </g>
         <path
            d="M 730.91456,38.19628 690.62309,36.09072"
