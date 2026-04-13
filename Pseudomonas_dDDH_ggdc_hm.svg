@@ -7,12 +7,27 @@
    id="svg6852"
    sodipodi:docname="Pseudomonas_dDDH_ggdc_hm.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Pseudomonas_dDDH_ggdc_hm.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs6852">
+    <rect
+       x="567.78544"
+       y="1596.8123"
+       width="401.90038"
+       height="22.927203"
+       id="rect6721" />
+    <rect
+       x="308.98128"
+       y="1580.1913"
+       width="130.64949"
+       height="25.74844"
+       id="rect6502" />
     <rect
        x="1672.3372"
        y="1758.6513"
@@ -43,9 +58,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.52430361"
-     inkscape:cx="690.43965"
-     inkscape:cy="752.42664"
+     inkscape:zoom="0.37073864"
+     inkscape:cx="296.70498"
+     inkscape:cy="783.57088"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -46427,11 +46442,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="130.47"
          lengthAdjust="spacingAndGlyphs"
-         id="text6503"><tspan
+         id="text6503">&quot;<tspan
    style="font-style:italic"
    id="tspan6854">P. flavocrustae</tspan> CBMAI 2609<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6884">T</tspan></text>
+   id="tspan6884">T</tspan>&quot;</text>
       <text
          x="289.39999"
          y="312.57999"
@@ -46491,11 +46506,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="100.44"
          lengthAdjust="spacingAndGlyphs"
-         id="text6509"><tspan
+         id="text6509">&quot;<tspan
    style="font-style:italic"
    id="tspan6860">P. eucalypticola</tspan> NP-1<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6888">T</tspan></text>
+   id="tspan6888">T</tspan>&quot;</text>
       <text
          x="289.39999"
          y="414.62"
@@ -46667,11 +46682,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="120.45"
          lengthAdjust="spacingAndGlyphs"
-         id="text6527"><tspan
+         id="text6527">&quot;<tspan
    style="font-style:italic"
    id="tspan6868">P. agronomica</tspan> SAICEU22<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6896">T</tspan></text>
+   id="tspan6896">T</tspan>&quot;</text>
       <text
          x="289.39999"
          y="720.77002"
@@ -46711,11 +46726,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="87.639999"
          lengthAdjust="spacingAndGlyphs"
-         id="text6531"><tspan
+         id="text6531">&quot;<tspan
    style="font-style:italic"
    id="tspan6871">P. algeriensis</tspan> NR3<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6899">T</tspan></text>
+   id="tspan6899">T</tspan>&quot;</text>
       <text
          x="289.39999"
          y="788.79999"
@@ -46836,18 +46851,6 @@
          textLength="48.73"
          lengthAdjust="spacingAndGlyphs"
          id="text6544">LARCF117</text>
-      <text
-         x="289.39999"
-         y="1009.9"
-         text-anchor="end"
-         style="font-size:10px;font-family:Arial"
-         textLength="147.66"
-         lengthAdjust="spacingAndGlyphs"
-         id="text6545"><tspan
-   style="font-style:italic"
-   id="tspan6876">P. mercuritolerans</tspan> SAICEUPSM<tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan6904">T</tspan></text>
       <text
          x="289.39999"
          y="1026.91"
@@ -47082,11 +47085,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="147.66"
          lengthAdjust="spacingAndGlyphs"
-         id="text6570"><tspan
+         id="text6570">&quot;<tspan
    style="font-style:italic"
    id="tspan6918">P. mercuritolerans</tspan> SAICEUPSM<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6921">T</tspan></text>
+   id="tspan6921">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,873.585,348.165)"
          text-anchor="end"
@@ -47195,17 +47198,6 @@
          lengthAdjust="spacingAndGlyphs"
          id="text6583">LARHSG189</text>
       <text
-         transform="rotate(-90,984.135,237.615)"
-         text-anchor="end"
-         style="font-size:10px;font-family:Arial"
-         textLength="87.639999"
-         lengthAdjust="spacingAndGlyphs"
-         id="text6584"><tspan
-   style="font-style:italic"
-   id="tspan6931">P. algeriensis </tspan>NR3<tspan
-   style="font-size:65%;baseline-shift:super"
-   id="tspan6945">T</tspan></text>
-      <text
          transform="rotate(-90,992.64,229.11)"
          text-anchor="end"
          style="font-size:10px;font-family:Arial"
@@ -47240,11 +47232,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="120.45"
          lengthAdjust="spacingAndGlyphs"
-         id="text6588"><tspan
+         id="text6588">&quot;<tspan
    style="font-style:italic"
    id="tspan6934">P. agronomica</tspan> SAICEU22<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6948">T</tspan></text>
+   id="tspan6948">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,1026.655,195.095)"
          text-anchor="end"
@@ -47398,11 +47390,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="100.44"
          lengthAdjust="spacingAndGlyphs"
-         id="text6606"><tspan
+         id="text6606">&quot;<tspan
    style="font-style:italic"
    id="tspan6957">P. eucalypticola</tspan> NP-1<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6964">T</tspan></text>
+   id="tspan6964">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,1179.725,42.025)"
          text-anchor="end"
@@ -47456,11 +47448,11 @@
          style="font-size:10px;font-family:Arial"
          textLength="130.47"
          lengthAdjust="spacingAndGlyphs"
-         id="text6612"><tspan
+         id="text6612">&quot;<tspan
    style="font-style:italic"
    id="tspan6961">P. flavocrustae </tspan>CBMAI 2609<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan6968">T</tspan></text>
+   id="tspan6968">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,1230.75,-9)"
          text-anchor="end"
@@ -49179,6 +49171,35 @@
          y2="756.52002"
          style="stroke:#ffffff;stroke-width:0.75"
          id="line6851" />
+      <text
+         x="289.39999"
+         y="1009.9"
+         text-anchor="end"
+         style="font-size:10px;font-family:Arial;inline-size:154.48"
+         textLength="147.66"
+         lengthAdjust="spacingAndGlyphs"
+         id="text6545"
+         xml:space="preserve"><tspan
+           x="289.39999"
+           y="1009.9"
+           id="tspan3">&quot;<tspan
+   style="font-style:italic"
+   id="tspan1">P. mercuritolerans</tspan> SAICEUPSM<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan2">T</tspan>&quot;</tspan></text>
+      <text
+         transform="rotate(-90,984.135,237.615)"
+         text-anchor="end"
+         style="font-size:10px;font-family:Arial"
+         textLength="87.639999"
+         lengthAdjust="spacingAndGlyphs"
+         id="text6584"><tspan
+   style="font-style:italic"
+   id="tspan6931"><tspan
+   style="font-style:normal"
+   id="tspan6506">&quot;</tspan>P. algeriensis </tspan>NR3<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan6945">T</tspan>&quot;</text>
     </g>
   </g>
   <text
@@ -49190,10 +49211,20 @@
      xml:space="preserve"
      transform="scale(0.75)"
      id="text6939"
-     style="-inkscape-font-specification:Arial;font-family:Arial;font-size:14.66666667px;line-height:normal;text-decoration-color:#000000;white-space:pre;text-align:center;text-orientation:auto;stroke-linecap:square;fill:#4d4d4d;writing-mode:lr-tb;direction:ltr;shape-inside:url(#rect6939)" />
+     style="font-size:14.6667px;line-height:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6939);display:inline;fill:#4d4d4d;stroke-linecap:square" />
   <text
      xml:space="preserve"
      transform="scale(0.75)"
      id="text6940"
-     style="-inkscape-font-specification:Arial;font-family:Arial;font-size:14.66666667px;line-height:normal;text-decoration-color:#000000;white-space:pre;text-align:center;text-orientation:auto;stroke-linecap:square;fill:#4d4d4d;writing-mode:lr-tb;direction:ltr;shape-inside:url(#rect6940)" />
+     style="font-size:14.6667px;line-height:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6940);display:inline;fill:#4d4d4d;stroke-linecap:square" />
+  <text
+     xml:space="preserve"
+     transform="scale(0.75)"
+     id="text10"
+     style="-inkscape-font-specification:Arial;font-family:Arial;font-size:13.33333333px;line-height:normal;text-decoration-color:#000000;white-space:pre;text-align:center;text-orientation:auto;stroke-linecap:square;fill:none;writing-mode:lr-tb;direction:ltr;shape-inside:url(#rect6502)" />
+  <text
+     xml:space="preserve"
+     transform="scale(0.75)"
+     id="text6623"
+     style="-inkscape-font-specification:Arial;font-family:Arial;font-size:13.33333333px;line-height:normal;text-decoration-color:#000000;white-space:pre;text-align:center;text-orientation:auto;stroke-linecap:square;fill:none;writing-mode:lr-tb;direction:ltr;shape-inside:url(#rect6721)" />
 </svg>
