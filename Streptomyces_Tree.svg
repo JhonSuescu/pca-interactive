@@ -7,7 +7,7 @@
    id="svg2748"
    sodipodi:docname="Streptomyces_Tree_editar.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="Streptomyces_Tree.png"
+   inkscape:export-filename="C:\Users\JHONS\Streptomyces_Tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -69,9 +69,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="8.1237264"
-     inkscape:cx="658.44168"
-     inkscape:cy="210.67918"
+     inkscape:zoom="1.4360855"
+     inkscape:cx="543.49131"
+     inkscape:cy="597.10929"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -4975,7 +4975,7 @@
              xml:space="preserve"><tspan
                x="-1045.4727"
                y="3.9000001"
-               id="tspan12">4326</tspan></text>
+               id="tspan22">4326</tspan></text>
           <text
              x="-1012.9409"
              y="3.9000001"
@@ -5559,7 +5559,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path158" />
         <g
            fill="#000000"
@@ -9353,7 +9353,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path270" />
         <g
            fill="#000000"
@@ -10574,7 +10574,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;stroke:#9fc5e8;stroke-opacity:1;fill:#9fc5e8;fill-opacity:1"
            id="path305" />
         <g
            fill="#000000"
@@ -14275,7 +14275,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;stroke:#9fc5e8;stroke-opacity:1;fill:#9fc5e8;fill-opacity:1"
            id="path412" />
         <g
            fill="#000000"
@@ -15610,7 +15610,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path453" />
         <g
            fill="#000000"
@@ -16960,7 +16960,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;stroke:#9fc5e8;stroke-opacity:1;fill:#9fc5e8;fill-opacity:1"
            id="path491" />
         <g
            fill="#000000"
@@ -17578,7 +17578,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path509" />
         <g
            fill="#000000"
@@ -21291,7 +21291,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;stroke:#9fc5e8;stroke-opacity:1;fill:#9fc5e8;fill-opacity:1"
            id="path620" />
         <g
            fill="#000000"
@@ -22074,7 +22074,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path643" />
         <g
            fill="#000000"
@@ -22216,7 +22216,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path647" />
         <g
            fill="#000000"
@@ -22504,7 +22504,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path655" />
         <g
            fill="#000000"
@@ -22830,7 +22830,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path665" />
         <g
            fill="#000000"
@@ -22972,7 +22972,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path669" />
         <g
            fill="#000000"
@@ -24250,7 +24250,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;stroke:#9fc5e8;stroke-opacity:1;fill:#9fc5e8;fill-opacity:1"
            id="path707" />
         <g
            fill="#000000"
@@ -25198,7 +25198,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path735" />
         <g
            fill="#000000"
@@ -25340,7 +25340,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path739" />
         <g
            fill="#000000"
@@ -25482,7 +25482,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path743" />
         <g
            fill="#000000"
@@ -29419,7 +29419,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;stroke:#9fc5e8;stroke-opacity:1;fill:#9fc5e8;fill-opacity:1"
            id="path862" />
         <g
            fill="#000000"
@@ -33221,7 +33221,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path974" />
         <g
            fill="#000000"
@@ -33363,7 +33363,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path978" />
         <g
            fill="#000000"
@@ -33505,7 +33505,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path982" />
         <g
            fill="#000000"
@@ -33647,7 +33647,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#9fc5e8;fill-opacity:1;stroke:#9fc5e8;stroke-opacity:1"
            id="path986" />
         <g
            fill="#000000"
