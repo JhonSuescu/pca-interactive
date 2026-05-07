@@ -7,6 +7,9 @@
    id="svg633"
    sodipodi:docname="Microbacterium_Tree_editar.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Microbacterium_Tree.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,15 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.2344807"
-     inkscape:cx="633.0597"
-     inkscape:cy="391.66265"
+     inkscape:zoom="0.87290967"
+     inkscape:cx="435.89848"
+     inkscape:cy="443.91764"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="mainHolder" />
+     inkscape:current-layer="mainHolder"
+     showgrid="false" />
   <g
      transform="matrix(-0.11763223,-0.067915,0.067915,-0.11763223,616.85014,401.76527)"
      id="mainHolder"
@@ -9087,7 +9091,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text4">12512T</text>
+             id="text4">12512<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan61">T</tspan></text>
         </g>
         <path
            d="m 794.24234,-140.04635 -7.25803,1.27979"
@@ -9231,7 +9237,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text8">15037T</text>
+             id="text8">15037<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan60">T</tspan></text>
         </g>
         <path
            d="m 776.2493,-221.5922 -7.82112,2.23266"
@@ -9375,7 +9383,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text12">20578T</text>
+             id="text12">20578<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan59">T</tspan></text>
         </g>
         <path
            d="m 763.5821,-306.40716 -68.41876,27.4548"
@@ -9500,7 +9510,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text15">AGC62T</text>
+             id="text15">AGC62<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan58">T</tspan></text>
         </g>
         <path
            d="m 719.90071,-379.50616 -62.71131,33.05918"
@@ -9625,7 +9637,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text18">KSW4-10T</text>
+             id="text18">KSW4-10<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan57">T</tspan></text>
         </g>
         <path
            d="m 686.32234,-458.21893 -68.4581,45.70564"
@@ -9769,7 +9783,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text22">15019T</text>
+             id="text22">15019<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan56">T</tspan></text>
         </g>
         <path
            d="m 647.57339,-536.88192 -57.27351,47.48359"
@@ -9894,7 +9910,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text25">SSW1-47T</text>
+             id="text25">SSW1-47<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan55">T</tspan></text>
         </g>
         <path
            d="m 586.82401,-599.10312 -50.26535,51.31714"
@@ -10019,7 +10037,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text28">G1T</text>
+             id="text28">G1<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan54">T</tspan></text>
         </g>
         <path
            d="m 495.76561,-623.83078 -44.38772,55.85387"
@@ -10144,7 +10164,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text31">sp.</text>
+             id="text31"><tspan
+               style="font-style:normal"
+               id="tspan53">sp.</tspan></text>
           <text
              x="-1216.2061"
              y="15"
@@ -10307,7 +10329,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text36">9174T</text>
+             id="text36">9174<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan52">T</tspan></text>
         </g>
         <path
            d="m 350.98601,-700.59224 -26.40469,52.70558"
@@ -10432,7 +10456,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text39">sp.</text>
+             id="text39"><tspan
+               style="font-style:normal"
+               id="tspan51">sp.</tspan></text>
           <text
              x="-1218.9648"
              y="15"
@@ -10576,7 +10602,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text43">sp.</text>
+             id="text43"><tspan
+               style="font-style:normal"
+               id="tspan50">sp.</tspan></text>
           <text
              x="-1246.7725"
              y="15"
@@ -10720,7 +10748,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text47">KSW2-24T</text>
+             id="text47">KSW2-24<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan49">T</tspan></text>
         </g>
         <path
            d="m 122.53064,-790.26271 -12.97312,83.6703"
@@ -10864,7 +10894,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text51">20169T</text>
+             id="text51">20169<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan48">T</tspan></text>
         </g>
         <path
            d="m 40.05463,-795.8151 -2.43958,48.4702"
@@ -10989,7 +11021,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text54">SSW1-49T</text>
+             id="text54">SSW1-49<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan47">T</tspan></text>
         </g>
         <path
            d="m -42.73261,-801.77199 2.90694,54.54163"
@@ -11114,7 +11148,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text57">AT</text>
+             id="text57">A<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan46">T</tspan></text>
         </g>
         <path
            d="m -127.89022,-809.01591 9.98596,63.16979"
@@ -11239,7 +11275,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text60">sp.</text>
+             id="text60"><tspan
+               style="font-style:normal"
+               id="tspan45">sp.</tspan></text>
           <text
              x="-1246.7725"
              y="15"
@@ -11402,7 +11440,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text65">16089T</text>
+             id="text65">16089<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan44">T</tspan></text>
         </g>
         <path
            d="m -289.8595,-761.16072 28.52857,74.91502"
@@ -11527,7 +11567,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text68">sp.</text>
+             id="text68"><tspan
+               style="font-style:normal"
+               id="tspan43">sp.</tspan></text>
           <text
              x="-1215.2539"
              y="15"
@@ -11690,7 +11732,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text73">12966T</text>
+             id="text73">12966<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan42">T</tspan></text>
         </g>
         <path
            d="m -444.7612,-692.47131 3.78636,5.89518"
@@ -11834,7 +11878,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text77">13468T</text>
+             id="text77">13468<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan41">T</tspan></text>
         </g>
         <path
            d="m -500.52043,-626.00302 41.33484,51.69766"
@@ -11959,7 +12005,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text80">sp.</text>
+             id="text80"><tspan
+               style="font-style:normal"
+               id="tspan40">sp.</tspan></text>
           <text
              x="1441.2305"
              y="15"
@@ -12122,7 +12170,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text85">12611T</text>
+             id="text85">12611<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan39">T</tspan></text>
         </g>
         <path
            d="m -599.93526,-494.39945 79.60508,65.60159"
@@ -12247,7 +12297,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text88">AGC85T</text>
+             id="text88">AGC85<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan38">T</tspan></text>
         </g>
         <path
            d="m -652.39115,-432.78033 50.61272,33.57524"
@@ -12372,7 +12424,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text91">Shh49T</text>
+             id="text91">Shh49<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan37">T</tspan></text>
         </g>
         <path
            d="m -706.30827,-369.67482 66.49395,34.80228"
@@ -12497,7 +12551,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text94">Mu-80T</text>
+             id="text94">Mu-80<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan36">T</tspan></text>
         </g>
         <path
            d="m -722.1968,-287.32277 78.70989,31.31438"
@@ -12622,7 +12678,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text97">YY-02T</text>
+             id="text97">YY-02<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan35">T</tspan></text>
         </g>
         <path
            d="m -749.90924,-211.6759 83.4094,23.54386"
@@ -12747,7 +12805,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text100">Mu-43T</text>
+             id="text100">Mu-43<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan34">T</tspan></text>
         </g>
         <path
            d="m -746.89147,-129.42016 121.7477,21.09625"
@@ -12872,7 +12932,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text103">ASV81T</text>
+             id="text103">ASV81<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan33">T</tspan></text>
         </g>
         <path
            d="m -710.38043,-48.40777 134.07078,9.13604"
@@ -12997,7 +13059,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text106">YY-01</text>
+             id="text106">YY-01<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan32">T</tspan></text>
         </g>
         <path
            d="M -999.37,35.49077 -627.79987,22.29515"
@@ -13122,7 +13186,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text109">YY-03T</text>
+             id="text109">YY-03<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan31">T</tspan></text>
         </g>
         <path
            d="M -886.79333,124.0957 -622.1337,87.05988"
@@ -13247,7 +13313,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text112">QXD-8T</text>
+             id="text112">QXD-8<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan29">T</tspan></text>
         </g>
         <path
            d="m -741.27715,183.42428 26.87193,-6.64929"
@@ -13372,7 +13440,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text115">sp.</text>
+             id="text115"><tspan
+               style="font-style:normal"
+               id="tspan30">sp.</tspan></text>
           <text
              x="1441.2305"
              y="15"
@@ -13535,7 +13605,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text120">18959T</text>
+             id="text120">18959<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan28">T</tspan></text>
         </g>
         <path
            d="m -699.90429,337.78519 57.64798,-27.82185"
@@ -13679,7 +13751,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text124">8608T</text>
+             id="text124">8608<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan27">T</tspan></text>
         </g>
         <path
            d="m -630.14465,389.10802 54.14766,-33.43564"
@@ -13823,7 +13897,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text128">39802T</text>
+             id="text128">39802<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan26">T</tspan></text>
         </g>
         <path
            d="m -593.51348,457.51459 43.11158,-33.23291"
@@ -13986,7 +14062,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text133">2016180T</text>
+             id="text133">2016180<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan25">T</tspan></text>
         </g>
         <path
            d="m -538.63842,512.20972 35.03417,-33.3152"
@@ -14130,7 +14208,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text137">30492T</text>
+             id="text137">30492<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan24">T</tspan></text>
         </g>
         <path
            d="m -480.68518,562.6415 44.98997,-52.66071"
@@ -14255,7 +14335,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text140">WY121T</text>
+             id="text140">WY121<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan23">T</tspan></text>
         </g>
         <path
            d="m -424.55532,615.97359 56.07762,-81.36121"
@@ -14399,7 +14481,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text144">3877T</text>
+             id="text144">3877<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan22">T</tspan></text>
         </g>
         <path
            d="m -364.1148,666.61336 30.18488,-55.26182"
@@ -14524,7 +14608,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text147">Sa1CUA4T</text>
+             id="text147">Sa1CUA4<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan21">T</tspan></text>
         </g>
         <path
            d="m -292.85904,699.69506 23.90151,-57.10518"
@@ -14649,7 +14735,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text150">LAM7116T</text>
+             id="text150">LAM7116<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan20">T</tspan></text>
         </g>
         <path
            d="m -218.67635,725.22132 25.64833,-85.06047"
@@ -14774,7 +14862,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text153">BWT-G7T</text>
+             id="text153">BWT-G7<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan19">T</tspan></text>
         </g>
         <path
            d="m -144.53994,754.30991 25.65948,-133.90899"
@@ -14899,7 +14989,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text156">ASV49T</text>
+             id="text156">ASV49<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan18">T</tspan></text>
         </g>
         <path
            d="M -65.06634,756.59906 -52.18663,606.83224"
@@ -15024,7 +15116,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text159">ET2T</text>
+             id="text159">ET2<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan17">T</tspan></text>
         </g>
         <path
            d="M 14.34045,807.8681 10.80992,608.97615"
@@ -15168,7 +15262,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text163">14558T</text>
+             id="text163">14558<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan16">T</tspan></text>
         </g>
         <path
            d="M 95.5089,783.60605 91.56315,751.23304"
@@ -15293,7 +15389,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text166">A1-JKT</text>
+             id="text166">A1-JK<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan15">T</tspan></text>
         </g>
         <path
            d="m 177.09136,774.37931 -8.3774,-36.63241"
@@ -15418,7 +15516,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text169">sp.</text>
+             id="text169"><tspan
+               style="font-style:normal"
+               id="tspan14">sp.</tspan></text>
           <text
              x="1441.2305"
              y="15"
@@ -15562,7 +15662,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text173">1P10AET</text>
+             id="text173">1P10AE<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan13">T</tspan></text>
         </g>
         <path
            d="M 326.08263,707.46551 296.55022,643.3923"
@@ -15687,7 +15789,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text176">IF8SW-P5T</text>
+             id="text176">IF8SW-P5<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan12">T</tspan></text>
         </g>
         <path
            d="M 398.24619,671.31098 361.45778,609.29792"
@@ -15812,7 +15916,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text179">zg-Y1090T</text>
+             id="text179">zg-Y1090<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan11">T</tspan></text>
         </g>
         <path
            d="M 456.52597,614.48486 412.82736,555.66644"
@@ -15937,7 +16043,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text182">zg-Y625T</text>
+             id="text182">zg-Y625<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan10">T</tspan></text>
         </g>
         <path
            d="M 515.68679,561.93848 468.04564,510.02442"
@@ -16062,7 +16170,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text185">sp.</text>
+             id="text185"><tspan
+   style="font-style:normal"
+   id="tspan9">sp</tspan>.</text>
           <text
              x="-1191.1572"
              y="15"
@@ -16206,7 +16316,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text189">2P06AB</text>
+             id="text189">2P06AB<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan8">T</tspan></text>
         </g>
         <path
            d="M 631.56024,452.03969 488.37775,349.55672"
@@ -16331,7 +16443,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text192">Mu-86T</text>
+             id="text192">Mu-86<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan7">T</tspan></text>
         </g>
         <path
            d="M 750.08273,427.16351 488.4373,278.15944"
@@ -16456,7 +16570,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text195">GXG1230T</text>
+             id="text195">GXG1230<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan6">T</tspan></text>
         </g>
         <path
            d="M 614.98048,270.3265 547.26075,240.55899"
@@ -16581,7 +16697,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text198">9H2T</text>
+             id="text198">9H2<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan5">T</tspan></text>
         </g>
         <path
            d="m 660.71947,212.09069 -91.52721,-29.3802"
@@ -16706,7 +16824,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text201">G2-8T</text>
+             id="text201">G2-8<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan4">T</tspan></text>
         </g>
         <path
            d="M 771.71369,162.12496 564.8055,118.65679"
@@ -16831,7 +16951,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text204">ABT</text>
+             id="text204">AB<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan3">T</tspan></text>
         </g>
         <path
            d="M 710.47569,73.82413 574.04428,59.64781"
@@ -16975,7 +17097,9 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text208">20419T</text>
+             id="text208">20419<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan2">T</tspan></text>
         </g>
         <path
            d="M 500.99367,0 H 250.49683"
