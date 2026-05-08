@@ -25,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.87290967"
-     inkscape:cx="435.89848"
-     inkscape:cy="443.91764"
+     inkscape:zoom="0.87290968"
+     inkscape:cx="639.81419"
+     inkscape:cy="527.54599"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -211,10 +211,36 @@
          sodipodi:cy="4.1447287"
          sodipodi:rx="2118.7246"
          sodipodi:ry="2118.7246"
-         sodipodi:start="0.9505607"
-         sodipodi:end="3.551261"
+         sodipodi:start="1.1545133"
+         sodipodi:end="1.9926584"
          sodipodi:arc-type="slice"
-         d="m 1231.6646,1728.2389 a 2118.7246,2118.7246 0 0 1 -2563.8877,-76.7843 2118.7246,2118.7246 0 0 1 -610.9785,-2491.20877 L 0.204862,4.1447287 Z"
+         d="m 856.94022,1941.9266 a 2118.7246,2118.7246 0 0 1 -1724.2683,-4.8099 L 0.204862,4.1447287 Z"
+         transform="rotate(150)" />
+      <path
+         style="mix-blend-mode:normal;fill:none;stroke:#f00000;stroke-width:10.4194;stroke-linecap:square;stroke-opacity:0.2"
+         id="path6-4-8-5-9"
+         sodipodi:type="arc"
+         sodipodi:cx="0.19066039"
+         sodipodi:cy="4.0679908"
+         sodipodi:rx="2118.7246"
+         sodipodi:ry="2118.7246"
+         sodipodi:start="1.9926016"
+         sodipodi:end="2.5176741"
+         sodipodi:arc-type="slice"
+         d="M -867.23249,1937.0892 A 2118.7246,2118.7246 0 0 1 -1719.3565,1241.8691 L 0.19066039,4.0679908 Z"
+         transform="rotate(150)" />
+      <path
+         style="mix-blend-mode:normal;fill:none;stroke:#f00000;stroke-width:10.4194;stroke-linecap:square;stroke-opacity:0.2"
+         id="path6-4-8-5-9-4"
+         sodipodi:type="arc"
+         sodipodi:cx="0.25387317"
+         sodipodi:cy="4.0972614"
+         sodipodi:rx="2118.7246"
+         sodipodi:ry="2118.7246"
+         sodipodi:start="2.5177411"
+         sodipodi:end="3.5283492"
+         sodipodi:arc-type="slice"
+         d="M -1719.3762,1241.7832 A 2118.7246,2118.7246 0 0 1 -1961.9761,-795.0571 L 0.25387317,4.0972614 Z"
          transform="rotate(150)" />
       <circle
          style="mix-blend-mode:normal;fill:#ffffff;stroke:#f00000;stroke-width:5.88552;stroke-linecap:square;stroke-opacity:0.2"
@@ -1030,15 +1056,39 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:98.1617px;line-height:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;mix-blend-mode:normal;fill:#ffffff;stroke:#f00000;stroke-width:7.36214;stroke-linecap:square;stroke-dasharray:none"
-       x="-266.8858"
-       y="337.79803"
+       x="3.0030653"
+       y="451.65741"
        id="text1-0-6-4-3"
        transform="rotate(150)"><tspan
          sodipodi:role="line"
          id="tspan1-1-4-2"
-         x="-266.8858"
-         y="337.79803"
+         x="3.0030653"
+         y="451.65741"
          style="fill:#f00000;fill-opacity:1;stroke-width:7.36214">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:98.1617px;line-height:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;mix-blend-mode:normal;fill:#ffffff;stroke:#f00000;stroke-width:7.36214;stroke-linecap:square;stroke-dasharray:none"
+       x="-256.9501"
+       y="359.91968"
+       id="text1-0-6-4-3-8"
+       transform="rotate(150)"><tspan
+         sodipodi:role="line"
+         id="tspan1-1-4-2-8"
+         x="-256.9501"
+         y="359.91968"
+         style="fill:#f00000;fill-opacity:1;stroke-width:7.36214">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:98.1617px;line-height:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;mix-blend-mode:normal;fill:#ffffff;stroke:#f00000;stroke-width:7.36214;stroke-linecap:square;stroke-dasharray:none"
+       x="-409.5723"
+       y="81.422592"
+       id="text1-0-6-4-3-8-5"
+       transform="rotate(150)"><tspan
+         sodipodi:role="line"
+         id="tspan1-1-4-2-8-1"
+         x="-409.5723"
+         y="81.422592"
+         style="fill:#f00000;fill-opacity:1;stroke-width:7.36214">F</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:98.1617px;line-height:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;mix-blend-mode:normal;fill:#ffffff;stroke:#f00000;stroke-width:7.36214;stroke-linecap:square;stroke-dasharray:none"
@@ -9455,8 +9505,8 @@
            style="mix-blend-mode:normal"
            id="g15">
           <text
-             x="-1819.1357"
-             y="15"
+             x="-1834.0914"
+             y="14.083384"
              transform="rotate(152.20339)"
              fill="#000000"
              fill-rule="nonzero"
@@ -9472,7 +9522,7 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text13">Microbacterium</text>
+             id="text13">&quot;Microbacterium</text>
           <text
              x="-1463.4961"
              y="15"
@@ -9512,7 +9562,7 @@
              style="mix-blend-mode:normal"
              id="text15">AGC62<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan58">T</tspan></text>
+   id="tspan65">T</tspan>&quot;</text>
         </g>
         <path
            d="m 719.90071,-379.50616 -62.71131,33.05918"
@@ -11093,8 +11143,8 @@
            style="mix-blend-mode:normal"
            id="g57">
           <text
-             x="-1534.7607"
-             y="15"
+             x="-1551.5632"
+             y="12.420477"
              transform="rotate(81.01695)"
              fill="#000000"
              fill-rule="nonzero"
@@ -11110,7 +11160,7 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text55">Microbacterium</text>
+             id="text55">&quot;Microbacterium</text>
           <text
              x="-1179.1211"
              y="15"
@@ -11150,7 +11200,7 @@
              style="mix-blend-mode:normal"
              id="text57">A<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan46">T</tspan></text>
+   id="tspan63">T</tspan>&quot;</text>
         </g>
         <path
            d="m -127.89022,-809.01591 9.98596,63.16979"
@@ -12242,8 +12292,8 @@
            style="mix-blend-mode:normal"
            id="g88">
           <text
-             x="1005"
-             y="15"
+             x="986.33197"
+             y="15.707293"
              transform="rotate(-146.44068)"
              fill="#000000"
              fill-rule="nonzero"
@@ -12259,7 +12309,7 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text86">Microbacterium</text>
+             id="text86">&quot;Microbacterium</text>
           <text
              x="1360.6396"
              y="15"
@@ -12299,7 +12349,7 @@
              style="mix-blend-mode:normal"
              id="text88">AGC85<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan38">T</tspan></text>
+   id="tspan66">T</tspan>&quot;</text>
         </g>
         <path
            d="m -652.39115,-432.78033 50.61272,33.57524"
@@ -13258,8 +13308,8 @@
            style="mix-blend-mode:normal"
            id="g112">
           <text
-             x="1005"
-             y="15"
+             x="986.45453"
+             y="11.575068"
              transform="rotate(166.10169)"
              fill="#000000"
              fill-rule="nonzero"
@@ -13275,7 +13325,7 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text110">Microbacterium</text>
+             id="text110">&quot;Microbacterium</text>
           <text
              x="1360.6396"
              y="15"
@@ -13315,7 +13365,7 @@
              style="mix-blend-mode:normal"
              id="text112">QXD-8<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan29">T</tspan></text>
+   id="tspan62">T</tspan>&quot;</text>
         </g>
         <path
            d="m -741.27715,183.42428 26.87193,-6.64929"
@@ -14680,8 +14730,8 @@
            style="mix-blend-mode:normal"
            id="g150">
           <text
-             x="1005"
-             y="15"
+             x="992.42053"
+             y="17.50038"
              transform="rotate(106.77966)"
              fill="#000000"
              fill-rule="nonzero"
@@ -14697,7 +14747,7 @@
              font-size="50px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text148">Microbacterium</text>
+             id="text148">&quot;Microbacterium</text>
           <text
              x="1360.6396"
              y="15"
@@ -14737,7 +14787,7 @@
              style="mix-blend-mode:normal"
              id="text150">LAM7116<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan20">T</tspan></text>
+   id="tspan64">T</tspan>&quot;</text>
         </g>
         <path
            d="m -218.67635,725.22132 25.64833,-85.06047"
