@@ -25,15 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.7458194"
-     inkscape:cx="638.38218"
-     inkscape:cy="431.02969"
+     inkscape:zoom="0.8729097"
+     inkscape:cx="692.51149"
+     inkscape:cy="414.13218"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="bootstrapHolder" />
+     inkscape:current-layer="mainHolder"
+     showgrid="false" />
   <g
      transform="matrix(-0.12857879,-0.074235,0.074235,-0.12857879,687.82841,401.13469)"
      id="mainHolder"
@@ -2951,8 +2952,8 @@
            style="mix-blend-mode:normal"
            id="g75">
           <text
-             x="-1582.7051"
-             y="13.5"
+             x="-1603.1777"
+             y="14.660639"
              transform="rotate(67.05882)"
              fill="#000000"
              fill-rule="nonzero"
@@ -2968,7 +2969,9 @@
              font-size="45px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text73">Frigoribacterium</text>
+             id="text73"><tspan
+   style="font-style:normal"
+   id="tspan3">&quot;</tspan>Frigoribacterium</text>
           <text
              x="-1245.1172"
              y="13.5"
@@ -3008,7 +3011,7 @@
              style="mix-blend-mode:normal"
              id="text75">D8<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan812">T</tspan></text>
+   id="tspan4">T</tspan>&quot;</text>
         </g>
         <path
            d="m -274.53956,-648.62535 42.78646,101.08701"
@@ -8283,8 +8286,8 @@
            style="mix-blend-mode:normal"
            id="g217">
           <text
-             x="-1630.3418"
-             y="13.5"
+             x="-1648.2823"
+             y="13.56787"
              transform="rotate(-128.52941)"
              fill="#000000"
              fill-rule="nonzero"
@@ -8300,7 +8303,9 @@
              font-size="45px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text215">Agromyces</text>
+             id="text215"><tspan
+   style="font-style:normal"
+   id="tspan2">&quot;</tspan>Agromyces</text>
           <text
              x="-1392.7734"
              y="13.5"
@@ -8340,7 +8345,7 @@
              style="mix-blend-mode:normal"
              id="text217">LY-1074<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan776">T</tspan></text>
+   id="tspan1">T</tspan>&quot;</text>
         </g>
         <path
            d="M 389.05738,488.59713 348.30814,437.42225"
