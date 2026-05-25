@@ -48,8 +48,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.6796875"
-     inkscape:cx="467.12644"
-     inkscape:cy="558.34483"
+     inkscape:cx="587.77011"
+     inkscape:cy="506.85057"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -25607,7 +25607,9 @@
          lengthAdjust="spacingAndGlyphs"
          id="text2346"><tspan
    style="font-style:italic"
-   id="tspan2662">Pseudoclavibacter terrae </tspan>THG-MD12T</text>
+   id="tspan2662">Pseudoclavibacter terrae </tspan>THG-MD12<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1">T</tspan></text>
       <text
          x="624.06"
          y="1030.62"
@@ -25627,7 +25629,9 @@
          lengthAdjust="spacingAndGlyphs"
          id="text2348"><tspan
    style="font-style:italic"
-   id="tspan2664">Pseudoclavibacter helvolus</tspan> DSM 20419T</text>
+   id="tspan2664">Pseudoclavibacter helvolus</tspan> DSM 20419<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan2">T</tspan></text>
       <text
          x="624.06"
          y="1064.63"
@@ -25637,7 +25641,9 @@
          lengthAdjust="spacingAndGlyphs"
          id="text2349"><tspan
    style="font-style:italic"
-   id="tspan2665">Pseudoclavibacter endophyticus</tspan> EGI 60007T</text>
+   id="tspan2665">Pseudoclavibacter endophyticus</tspan> EGI 60007<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan3">T</tspan></text>
       <text
          transform="rotate(-90,855.685,217.425)"
          text-anchor="end"
@@ -25862,7 +25868,7 @@
          lengthAdjust="spacingAndGlyphs"
          id="text2372"><tspan
    style="font-style:italic"
-   id="tspan2697">Curtobacterium</tspan> <tspan
+   id="tspan2697">Curtobacterium</tspan><tspan
    style="font-style:italic"
    id="tspan2698">salicis</tspan> WW7<tspan
    style="font-size:65%;baseline-shift:super"
