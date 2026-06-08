@@ -7,6 +7,9 @@
    id="svg779"
    sodipodi:docname="Otras_familias_actino_2_AAI_POCP_heatmap.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Otras_familias_actino_2_AAI_POCP_heatmap.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,8 +39,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.1534679"
-     inkscape:cx="381.0249"
-     inkscape:cy="326.40699"
+     inkscape:cx="86.261609"
+     inkscape:cy="239.71191"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -5732,11 +5735,11 @@
          style="font-size:8px;font-family:Arial"
          textLength="107.27"
          lengthAdjust="spacingAndGlyphs"
-         id="text527"><tspan
+         id="text527">&quot;<tspan
    style="font-style:italic"
    id="tspan791">Kribbella turkmenica </tspan>16K104<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan802">T</tspan></text>
+   id="tspan833">T</tspan>&quot;</text>
       <text
          x="266.35999"
          y="363.31"
@@ -5827,11 +5830,11 @@
          style="font-size:8px;font-family:Arial"
          textLength="107.27"
          lengthAdjust="spacingAndGlyphs"
-         id="text536"><tspan
+         id="text536">&quot;<tspan
    style="font-style:italic"
    id="tspan818">Kribbella turkmenica</tspan> 16K104<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan807">T</tspan></text>
+   id="tspan831">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,394.205,28.605)"
          text-anchor="end"
