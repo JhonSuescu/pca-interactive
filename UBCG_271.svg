@@ -5,9 +5,9 @@
    height="815.29987"
    viewBox="0 0 1010.3078 815.29987"
    id="svg1371"
-   sodipodi:docname="Tesis_271.svg"
+   sodipodi:docname="UBCG_271.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="Tesis_271.png"
+   inkscape:export-filename="C:\Users\JHONS\Tesis_271.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.68169513"
-     inkscape:cx="499.49015"
-     inkscape:cy="489.22163"
+     inkscape:cx="531.76264"
+     inkscape:cy="414.40812"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -25036,7 +25036,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#33a02c;fill-opacity:1;stroke:#33a02c;stroke-opacity:1"
            id="path883" />
         <path
            d="m -856.69203,-544.80393 -21.93942,-13.95213 c -4.19838,6.60186 -8.32222,13.25083 -12.37073,19.94564 l 22.24831,13.45409 c 3.94742,-6.52764 7.96829,-13.01058 12.06183,-19.44759"
@@ -25070,7 +25070,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#33a02c;fill-opacity:1;stroke:#33a02c;stroke-opacity:1"
            id="path885" />
         <path
            d="m 602.5001,817.14515 15.4297,20.92664 c 6.2971,-4.643 12.54167,-9.35682 18.73252,-14.14058 l -15.89745,-20.57355 c -6.03627,4.6643 -12.12491,9.26042 -18.26477,13.78749"
@@ -25529,7 +25529,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#33a02c;fill-opacity:1;stroke:#33a02c;stroke-opacity:1"
            id="path912" />
         <path
            d="m -717.42767,718.35236 -18.37293,18.39661 c 5.53578,5.52866 11.1337,10.99475 16.79269,16.39722 l 17.95362,-18.80605 c -5.51768,-5.26758 -10.97582,-10.59718 -16.37337,-15.98779"
@@ -25563,7 +25563,7 @@
            font-weight="none"
            font-size="none"
            text-anchor="none"
-           style="mix-blend-mode:normal"
+           style="mix-blend-mode:normal;fill:#33a02c;fill-opacity:1;stroke:#33a02c;stroke-opacity:1"
            id="path914" />
         <path
            d="m -894.34753,480.49459 -22.90375,12.30521 c 3.7028,6.89204 7.48316,13.74213 11.34035,20.54896 l 22.62059,-12.81831 c -3.76088,-6.63686 -7.44685,-13.31591 -11.05719,-20.03585"
@@ -33291,7 +33291,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1358">Actinomycetes</text>
+         id="text1358"><tspan
+           style="font-style:italic"
+           id="tspan1">Actinomycetes</tspan></text>
       <rect
          x="74"
          y="325"
@@ -33329,7 +33331,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1359">Alphaproteobacteria</text>
+         id="text1359"><tspan
+           style="font-style:italic"
+           id="tspan2">Alphaproteobacteria</tspan></text>
       <rect
          x="74"
          y="355"
@@ -33367,7 +33371,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1360">Bacilli</text>
+         id="text1360"><tspan
+           style="font-style:italic"
+           id="tspan3">Bacilli</tspan></text>
       <rect
          x="74"
          y="385"
@@ -33405,7 +33411,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1361">Betaproteobacteria</text>
+         id="text1361"><tspan
+           style="font-style:italic"
+           id="tspan4">Betaproteobacteria</tspan></text>
       <rect
          x="74"
          y="415"
@@ -33443,7 +33451,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1362">Chitinophagia</text>
+         id="text1362"><tspan
+           style="font-style:italic"
+           id="tspan5">Chitinophagia</tspan></text>
       <rect
          x="74"
          y="445"
@@ -33481,7 +33491,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1363">Flavobacteriia</text>
+         id="text1363"><tspan
+           style="font-style:italic"
+           id="tspan6">Flavobacteriia</tspan></text>
       <rect
          x="74"
          y="475"
@@ -33519,7 +33531,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1364">Fusobacteriia (<tspan
+         id="text1364"><tspan
+   style="font-style:italic"
+   id="tspan7">Fusobacteriia</tspan> (<tspan
    style="font-style:italic"
    id="tspan1373">outgroup</tspan>)</text>
       <rect
@@ -33559,7 +33573,9 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text1365">Gammaproteobacteria</text>
+         id="text1365"><tspan
+           style="font-style:italic"
+           id="tspan8">Gammaproteobacteria</tspan></text>
       <path
          d="M 72,288 H 269.41797"
          fill="none"
