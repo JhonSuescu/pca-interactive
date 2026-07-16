@@ -7,6 +7,9 @@
    id="svg727"
    sodipodi:docname="Pseudomonas_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Pseudomonas_Tree.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="331.63308"
-     inkscape:cy="454.66966"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="541.11346"
+     inkscape:cy="809.81404"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -542,7 +545,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text12">16768T</text>
+             id="text12">16768<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan791">T</tspan></text>
         </g>
         <path
            d="M 937.26094,1890 H 914.06652"
@@ -664,7 +669,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text15">SWRI79T</text>
+             id="text15">SWRI79<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan790">T</tspan></text>
         </g>
         <path
            d="M 928.54593,1860 H 907.86426"
@@ -786,7 +793,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text18">FP1935T</text>
+             id="text18">FP1935<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan789">T</tspan></text>
         </g>
         <path
            d="M 935.83908,1830 H 901.93787"
@@ -1047,7 +1056,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text25">PLb12AT</text>
+             id="text25">PLb12A<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan788">T</tspan></text>
         </g>
         <path
            d="M 919.35393,1770 H 892.95575"
@@ -1187,7 +1198,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text29">17150T</text>
+             id="text29">17150<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan787">T</tspan></text>
         </g>
         <path
            d="M 921.18577,1740 H 892.95575"
@@ -1448,7 +1461,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text36">SAICEUPSMT</text>
+             id="text36">SAICEUPSM<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan786">T</tspan></text>
         </g>
         <path
            d="m 936.75791,1680 h -7.52468"
@@ -1987,7 +2002,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text51">M7D1T</text>
+             id="text51">M7D1<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan785">T</tspan></text>
         </g>
         <path
            d="m 933.10619,1560 h -6.57198"
@@ -2127,7 +2144,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text55">27940t</text>
+             id="text55">27940<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan784">T</tspan></text>
         </g>
         <path
            d="M 928.69314,1530 H 871.03575"
@@ -2249,7 +2268,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text58">HB002T</text>
+             id="text58">HB002<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan783">T</tspan></text>
         </g>
         <path
            d="m 941.41255,1500 h -7.35901"
@@ -2371,7 +2392,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text61">SWRI17T</text>
+             id="text61">SWRI17<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan782">T</tspan></text>
         </g>
         <path
            d="m 942.48567,1470 h -8.43213"
@@ -2735,9 +2758,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text70">Pseudomonas</text>
+             id="text70"><tspan
+   style="font-style:normal"
+   id="tspan778">&quot;</tspan>Pseudomonas</text>
           <text
-             x="1138.418"
+             x="1142.7698"
              y="1386"
              fill="#000000"
              fill-rule="nonzero"
@@ -2755,7 +2780,7 @@
              style="mix-blend-mode:normal"
              id="text71">agronomica</text>
           <text
-             x="1248.4766"
+             x="1252.8284"
              y="1386"
              fill="#000000"
              fill-rule="nonzero"
@@ -2771,7 +2796,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text72">SAICEU22T</text>
+             id="text72">SAICEU22<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan779">T</tspan>&quot;</text>
         </g>
         <path
            d="m 936.56112,1380 h -2.92093"
@@ -2857,9 +2884,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text73">Pseudomonas</text>
+             id="text73"><tspan
+   style="font-style:normal"
+   id="tspan780">&quot;</tspan>Pseudomonas</text>
           <text
-             x="1138.418"
+             x="1142.7698"
              y="1356"
              fill="#000000"
              fill-rule="nonzero"
@@ -2877,7 +2906,7 @@
              style="mix-blend-mode:normal"
              id="text74">algeriensis</text>
           <text
-             x="1239.5801"
+             x="1243.9319"
              y="1356"
              fill="#000000"
              fill-rule="nonzero"
@@ -2895,7 +2924,7 @@
              style="mix-blend-mode:normal"
              id="text75">NR3<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan772">T</tspan></text>
+   id="tspan781">T</tspan>&quot;</text>
         </g>
         <path
            d="M 941.5436,1350 H 884.97792"
@@ -8368,9 +8397,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text225">Pseudomonas</text>
+             id="text225"><tspan
+   style="font-style:normal"
+   id="tspan776">&quot;</tspan>Pseudomonas</text>
           <text
-             x="1138.418"
+             x="1142.7698"
              y="156"
              fill="#000000"
              fill-rule="nonzero"
@@ -8388,7 +8419,7 @@
              style="mix-blend-mode:normal"
              id="text226">eucalypticola</text>
           <text
-             x="1259.5996"
+             x="1263.9514"
              y="156"
              fill="#000000"
              fill-rule="nonzero"
@@ -8406,7 +8437,7 @@
              style="mix-blend-mode:normal"
              id="text227">NP-1<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan737">T</tspan></text>
+   id="tspan777">T</tspan>&quot;</text>
         </g>
         <path
            d="M 815.54717,150 H 689.52751"
