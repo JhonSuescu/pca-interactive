@@ -7,7 +7,7 @@
    id="svg727"
    sodipodi:docname="Pseudomonas_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="Pseudomonas_Tree.png"
+   inkscape:export-filename="C:\Users\JHONS\Pseudomonas_Tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,15 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="541.11346"
-     inkscape:cy="809.81404"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="427.5"
+     inkscape:cy="456.5"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg727" />
+     inkscape:current-layer="svg727"
+     showgrid="false" />
   <g
      transform="matrix(0.45958,0,0,0.45958,25.036396,19.669909)"
      id="mainHolder"
@@ -248,7 +249,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text3">sp.</text>
+             id="text3"><tspan
+               style="font-style:normal"
+               id="tspan11">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1956"
@@ -387,7 +390,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text7">sp.</text>
+             id="text7"><tspan
+               style="font-style:normal"
+               id="tspan10">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1926"
@@ -916,7 +921,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text21">sp.</text>
+             id="text21"><tspan
+               style="font-style:normal"
+               id="tspan9">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1806"
@@ -1321,7 +1328,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text32">sp.</text>
+             id="text32"><tspan
+               style="font-style:normal"
+               id="tspan8">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1716"
@@ -1584,7 +1593,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text39">sp.</text>
+             id="text39"><tspan
+               style="font-style:normal"
+               id="tspan7">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1656"
@@ -1723,7 +1734,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text43">sp.</text>
+             id="text43"><tspan
+               style="font-style:normal"
+               id="tspan6">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1626"
@@ -1862,7 +1875,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text47">sp.</text>
+             id="text47"><tspan
+               style="font-style:normal"
+               id="tspan5">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1596"
@@ -2515,7 +2530,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text64">sp.</text>
+             id="text64"><tspan
+               style="font-style:normal"
+               id="tspan4">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1446"
@@ -2654,7 +2671,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text68">sp.</text>
+             id="text68"><tspan
+               style="font-style:normal"
+               id="tspan2">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1416"
@@ -3045,7 +3064,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text78">sp.</text>
+             id="text78"><tspan
+               style="font-style:normal"
+               id="tspan1">sp.</tspan></text>
           <text
              x="1170.6543"
              y="1326"
@@ -12115,8 +12136,8 @@
          style="mix-blend-mode:normal"
          id="text353">92 / 100</text>
       <text
-         x="888.26654"
-         y="1764.9"
+         x="873.71521"
+         y="1765.308"
          fill="#000000"
          fill-rule="nonzero"
          stroke="none"
