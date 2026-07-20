@@ -25,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="434.87067"
-     inkscape:cy="320.31937"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="747.05832"
+     inkscape:cy="324.91557"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1117,9 +1117,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text14">Stenotrophomonas</text>
+             id="text14"><tspan
+   style="font-style:normal"
+   id="tspan9">&quot;</tspan>Stenotrophomonas</text>
           <text
-             x="1179.5605"
+             x="1185.9092"
              y="1116"
              fill="#000000"
              fill-rule="nonzero"
@@ -1137,7 +1139,7 @@
              style="mix-blend-mode:normal"
              id="text15">nematodicola</text>
           <text
-             x="1304.082"
+             x="1310.4307"
              y="1116"
              fill="#000000"
              fill-rule="nonzero"
@@ -1155,7 +1157,7 @@
              style="mix-blend-mode:normal"
              id="text16">CPCC</text>
           <text
-             x="1366.3086"
+             x="1372.6572"
              y="1116"
              fill="#000000"
              fill-rule="nonzero"
@@ -1173,7 +1175,7 @@
              style="mix-blend-mode:normal"
              id="text17">101271<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan498">T</tspan></text>
+   id="tspan10">T</tspan>&quot;</text>
         </g>
         <path
            d="M 989.01132,1110 H 874.56443"
@@ -1773,9 +1775,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text31">Stenotrophomonas</text>
+             id="text31"><tspan
+   style="font-style:normal"
+   id="tspan7">&quot;</tspan>Stenotrophomonas</text>
           <text
-             x="1179.5605"
+             x="1185.9092"
              y="966"
              fill="#000000"
              fill-rule="nonzero"
@@ -1793,7 +1797,7 @@
              style="mix-blend-mode:normal"
              id="text32">aracearum</text>
           <text
-             x="1280.7129"
+             x="1287.0615"
              y="966"
              fill="#000000"
              fill-rule="nonzero"
@@ -1811,7 +1815,7 @@
              style="mix-blend-mode:normal"
              id="text33">A5588<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan496">T</tspan></text>
+   id="tspan8">T</tspan>&quot;</text>
         </g>
         <path
            d="M 994.71772,960 H 963.752"
@@ -2641,9 +2645,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text52">Stenotrophomonas</text>
+             id="text52"><tspan
+   style="font-style:normal"
+   id="tspan1">&quot;</tspan>Stenotrophomonas</text>
           <text
-             x="1179.5605"
+             x="1185.9092"
              y="756"
              fill="#000000"
              fill-rule="nonzero"
@@ -2661,7 +2667,7 @@
              style="mix-blend-mode:normal"
              id="text53">panacihumi</text>
           <text
-             x="1287.4023"
+             x="1293.751"
              y="756"
              fill="#000000"
              fill-rule="nonzero"
@@ -2679,7 +2685,7 @@
              style="mix-blend-mode:normal"
              id="text54">JCM</text>
           <text
-             x="1334.0625"
+             x="1340.4111"
              y="756"
              fill="#000000"
              fill-rule="nonzero"
@@ -2697,7 +2703,7 @@
              style="mix-blend-mode:normal"
              id="text55">16536<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan493">T</tspan></text>
+   id="tspan2">T</tspan>&quot;</text>
         </g>
         <path
            d="M 855.45762,750 H 755.56378"
@@ -3171,9 +3177,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text66">Xanthomonas</text>
+             id="text66"><tspan
+   style="font-style:normal"
+   id="tspan11">&quot;</tspan>Xanthomonas</text>
           <text
-             x="1133.9746"
+             x="1140.3232"
              y="636"
              fill="#000000"
              fill-rule="nonzero"
@@ -3191,7 +3199,7 @@
              style="mix-blend-mode:normal"
              id="text67">surreyensis</text>
           <text
-             x="1241.7871"
+             x="1248.1357"
              y="636"
              fill="#000000"
              fill-rule="nonzero"
@@ -3209,7 +3217,7 @@
              style="mix-blend-mode:normal"
              id="text68">Sa3BUA13<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan491">T</tspan></text>
+   id="tspan12">T</tspan>&quot;</text>
         </g>
         <path
            d="m 824.89529,630 h -9.37263"
@@ -4607,9 +4615,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text103">Pseudoxanthomonas</text>
+             id="text103"><tspan
+   style="font-style:normal"
+   id="tspan5">&quot;</tspan>Pseudoxanthomonas</text>
           <text
-             x="1198.4668"
+             x="1204.8154"
              y="306"
              fill="#000000"
              fill-rule="nonzero"
@@ -4627,7 +4637,7 @@
              style="mix-blend-mode:normal"
              id="text104">beigongshangi</text>
           <text
-             x="1334.1406"
+             x="1340.4893"
              y="306"
              fill="#000000"
              fill-rule="nonzero"
@@ -4645,7 +4655,7 @@
              style="mix-blend-mode:normal"
              id="text105">REN9<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan486">T</tspan></text>
+   id="tspan6">T</tspan>&quot;</text>
         </g>
         <path
            d="m 814.73578,300 h -7.90995"
@@ -5369,9 +5379,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text122">Lysobacter</text>
+             id="text122"><tspan
+   style="font-style:normal"
+   id="tspan3">&quot;</tspan>Lysobacter</text>
           <text
-             x="1108.0273"
+             x="1114.376"
              y="126"
              fill="#000000"
              fill-rule="nonzero"
@@ -5389,7 +5401,7 @@
              style="mix-blend-mode:normal"
              id="text123">changpingensis</text>
           <text
-             x="1252.5781"
+             x="1258.9268"
              y="126"
              fill="#000000"
              fill-rule="nonzero"
@@ -5407,7 +5419,7 @@
              style="mix-blend-mode:normal"
              id="text124">CM-3-T8<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan483">T</tspan></text>
+   id="tspan4">T</tspan>&quot;</text>
         </g>
         <path
            d="M 783.84361,120 H 710.85026"
@@ -7549,7 +7561,7 @@
          style="mix-blend-mode:normal"
          id="text188">92 / 100</text>
       <text
-         x="683.21936"
+         x="730.83502"
          y="532.6875"
          fill="#000000"
          fill-rule="nonzero"
@@ -7729,8 +7741,8 @@
          style="mix-blend-mode:normal"
          id="text196">92/92</text>
       <text
-         x="551.63855"
-         y="264.5625"
+         x="547.67059"
+         y="250.27792"
          fill="#000000"
          fill-rule="nonzero"
          stroke="none"
