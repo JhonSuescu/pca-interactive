@@ -5,7 +5,7 @@
    height="468.33493"
    viewBox="0 0 1214.8739 468.33493"
    id="svg198"
-   sodipodi:docname="Otras_Familias_Gamma.svg"
+   sodipodi:docname="Otras_Familias_Gamma_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.46127669"
-     inkscape:cx="651.45282"
-     inkscape:cy="-211.36988"
+     inkscape:zoom="0.92255338"
+     inkscape:cx="687.76508"
+     inkscape:cy="167.46998"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -2012,9 +2012,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text51">Luteibacter</text>
+             id="text51"><tspan
+   style="font-style:normal"
+   id="tspan1">&quot;</tspan>Luteibacter</text>
           <text
-             x="1109.5117"
+             x="1115.6218"
              y="66"
              fill="#000000"
              fill-rule="nonzero"
@@ -2032,7 +2034,7 @@
              style="mix-blend-mode:normal"
              id="text52">jiangsuensis</text>
           <text
-             x="1225.1367"
+             x="1231.2468"
              y="66"
              fill="#000000"
              fill-rule="nonzero"
@@ -2050,7 +2052,7 @@
              style="mix-blend-mode:normal"
              id="text53">CGMCC</text>
           <text
-             x="1306.2402"
+             x="1312.3503"
              y="66"
              fill="#000000"
              fill-rule="nonzero"
@@ -2068,7 +2070,7 @@
              style="mix-blend-mode:normal"
              id="text54">1.10133<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan205">T</tspan></text>
+   id="tspan2">T</tspan>&quot;</text>
         </g>
         <path
            d="M 894.09449,60 H 816.27588"
