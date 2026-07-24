@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.3046875"
-     inkscape:cx="357.55689"
-     inkscape:cy="316.16766"
+     inkscape:zoom="2.609375"
+     inkscape:cx="738.68264"
+     inkscape:cy="436.31138"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -214,9 +214,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text1">Ureibacillus</text>
+             id="text1"><tspan
+   style="font-style:normal"
+   id="tspan1">&quot;</tspan>Ureibacillus</text>
           <text
-             x="1113.9258"
+             x="1121.5615"
              y="816"
              fill="#000000"
              fill-rule="nonzero"
@@ -234,7 +236,7 @@
              style="mix-blend-mode:normal"
              id="text2">aquaedulcis</text>
           <text
-             x="1226.2305"
+             x="1233.8662"
              y="816"
              fill="#000000"
              fill-rule="nonzero"
@@ -252,7 +254,7 @@
              style="mix-blend-mode:normal"
              id="text3">BA0131<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan362">T</tspan></text>
+   id="tspan2">T</tspan>&quot;</text>
         </g>
         <path
            d="m 754.21114,810 h -57.0805"
