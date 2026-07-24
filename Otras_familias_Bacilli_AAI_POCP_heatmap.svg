@@ -7,6 +7,9 @@
    id="svg1747"
    sodipodi:docname="Otras_familias_Bacilli_AAI_POCP_heatmap.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Otras_familias_Bacilli_AAI_POCP_heatmap.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,9 +38,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="0.61503559"
-     inkscape:cx="465.8267"
-     inkscape:cy="444.68972"
+     inkscape:zoom="1.7395833"
+     inkscape:cx="634.92215"
+     inkscape:cy="782.65868"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -15970,11 +15973,11 @@
          style="font-size:8px;font-family:Arial"
          textLength="121.95"
          lengthAdjust="spacingAndGlyphs"
-         id="text1466"><tspan
+         id="text1466">&quot;<tspan
    style="font-style:italic"
    id="tspan1752">Ureibacillus aquaedulcis </tspan>BA0131<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1788">T</tspan></text>
+   id="tspan1">T</tspan>&quot;</text>
       <text
          x="184.60001"
          y="138.92999"
@@ -16451,11 +16454,11 @@
          style="font-size:8px;font-family:Arial"
          textLength="121.95"
          lengthAdjust="spacingAndGlyphs"
-         id="text1511"><tspan
+         id="text1511">&quot;<tspan
    style="font-style:italic"
    id="tspan1813">Ureibacillus aquaedulcis</tspan> BA0131<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1831">T</tspan></text>
+   id="tspan3">T</tspan>&quot;</text>
       <text
          transform="rotate(-90,547.275,-42.705)"
          text-anchor="end"
