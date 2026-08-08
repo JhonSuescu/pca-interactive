@@ -4624,8 +4624,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text103"><tspan
-   style="font-style:normal"
-   id="tspan5">&quot;</tspan>Pseudoxanthomonas</text>
+               style="font-style:normal"
+               id="tspan19">&quot;Pseudoxanthomonas</tspan></text>
           <text
              x="1204.8154"
              y="306"
@@ -4643,7 +4643,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text104">beigongshangi</text>
+             id="text104"><tspan
+               style="font-style:normal"
+               id="tspan20">beigongshangi</tspan></text>
           <text
              x="1340.4893"
              y="306"
