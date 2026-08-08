@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="448.12892"
-     inkscape:cy="96.696852"
+     inkscape:cx="448.12893"
+     inkscape:cy="718.59727"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1102,9 +1102,9 @@
              xml:space="preserve"><tspan
                x="1218.4277"
                y="1896"
-               id="tspan2">16768<tspan
+               id="tspan16">16768<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan1">T</tspan></tspan></text>
+   id="tspan15">T</tspan></tspan></text>
         </g>
         <path
            d="m 957.56979,1890 h -15.6142"
@@ -2060,7 +2060,7 @@
            style="mix-blend-mode:normal"
            id="g35">
           <text
-             x="1005"
+             x="999.64124"
              y="1656"
              fill="#000000"
              fill-rule="nonzero"
@@ -2076,7 +2076,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text33">Pseudomonas</text>
+             id="text33"><tspan
+               style="font-style:normal"
+               id="tspan9">&quot;Pseudomonas</tspan></text>
           <text
              x="1138.418"
              y="1656"
@@ -2094,7 +2096,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text34">mercuritolerans</text>
+             id="text34"><tspan
+               style="font-style:normal"
+               id="tspan10">mercuritolerans</tspan></text>
           <text
              x="1281.7969"
              y="1656"
@@ -2114,7 +2118,7 @@
              style="mix-blend-mode:normal"
              id="text35">SAICEUPSM<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan754">T</tspan></text>
+   id="tspan14">T</tspan>&quot;</text>
         </g>
         <path
            d="m 951.04085,1650 h -5.1391"
