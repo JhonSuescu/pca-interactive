@@ -7,6 +7,9 @@
    id="svg198"
    sodipodi:docname="Otras_Familias_Gamma_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Otras_Familias_Gamma_Tree.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.92255338"
-     inkscape:cx="687.76508"
-     inkscape:cy="167.46998"
+     inkscape:zoom="0.65234375"
+     inkscape:cx="544.95808"
+     inkscape:cy="66.682635"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -2013,8 +2016,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text51"><tspan
-   style="font-style:normal"
-   id="tspan1">&quot;</tspan>Luteibacter</text>
+               style="font-style:normal"
+               id="tspan1">&quot;Luteibacter</tspan></text>
           <text
              x="1115.6218"
              y="66"
@@ -2032,7 +2035,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text52">jiangsuensis</text>
+             id="text52"><tspan
+               style="font-style:normal"
+               id="tspan3">jiangsuensis</tspan></text>
           <text
              x="1231.2468"
              y="66"
