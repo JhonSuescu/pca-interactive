@@ -7,7 +7,7 @@
    id="svg692"
    sodipodi:docname="Pseudomonas_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="Pseudomonas_Tree.png"
+   inkscape:export-filename="C:\Users\JHONS\Pseudomonas_Tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="435.57778"
-     inkscape:cy="721.77925"
+     inkscape:cx="448.12892"
+     inkscape:cy="96.696852"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1102,9 +1102,9 @@
              xml:space="preserve"><tspan
                x="1218.4277"
                y="1896"
-               id="tspan10">16768<tspan
+               id="tspan2">16768<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan9">T</tspan></tspan></text>
+   id="tspan1">T</tspan></tspan></text>
         </g>
         <path
            d="m 957.56979,1890 h -15.6142"
@@ -3193,8 +3193,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text60"><tspan
-   style="font-style:normal"
-   id="tspan7">&quot;</tspan>Pseudomonas</text>
+               style="font-style:normal"
+               id="tspan7">&quot;Pseudomonas</tspan></text>
           <text
              x="1149.1355"
              y="1386"
@@ -3212,7 +3212,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text61">agronomica</text>
+             id="text61"><tspan
+               style="font-style:normal"
+               id="tspan11">agronomica</tspan></text>
           <text
              x="1259.1941"
              y="1386"
@@ -3319,8 +3321,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text63"><tspan
-   style="font-style:normal"
-   id="tspan5">&quot;</tspan>Pseudomonas</text>
+               style="font-style:normal"
+               id="tspan5">&quot;Pseudomonas</tspan></text>
           <text
              x="1149.1355"
              y="1356"
@@ -3338,7 +3340,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text64">algeriensis</text>
+             id="text64"><tspan
+               style="font-style:normal"
+               id="tspan12">algeriensis</tspan></text>
           <text
              x="1250.2976"
              y="1356"
@@ -8443,8 +8447,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text192"><tspan
-   style="font-style:normal"
-   id="tspan3">&quot;</tspan>Pseudomonas</text>
+               style="font-style:normal"
+               id="tspan3">&quot;Pseudomonas</tspan></text>
           <text
              x="1149.1355"
              y="156"
@@ -8462,7 +8466,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text193">eucalypticola</text>
+             id="text193"><tspan
+               style="font-style:normal"
+               id="tspan13">eucalypticola</tspan></text>
           <text
              x="1270.3171"
              y="156"
