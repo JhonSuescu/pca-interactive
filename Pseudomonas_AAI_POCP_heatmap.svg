@@ -7,6 +7,9 @@
    id="svg8555"
    sodipodi:docname="Pseudomonas_AAI_POCP_heatmap.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Pseudomonas_AAI_POCP_heatmap.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,9 +40,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.43489583"
-     inkscape:cx="851.92814"
-     inkscape:cy="757.65269"
+     inkscape:zoom="1.7395833"
+     inkscape:cx="1396.5988"
+     inkscape:cy="1523.6407"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -89792,9 +89795,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="80.389999"
          lengthAdjust="spacingAndGlyphs"
-         id="text8204">&quot;<tspan
-   style="font-style:italic"
-   id="tspan8567">P. eucalypticola</tspan> NP-1<tspan
+         id="text8204">&quot;P. eucalypticola NP-1<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan8561">T</tspan>&quot;</text>
       <text
@@ -90008,9 +90009,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="96.419998"
          lengthAdjust="spacingAndGlyphs"
-         id="text8227">&quot;<tspan
-   style="font-style:italic"
-   id="tspan8581">P. agronomica</tspan> SAICEU22T&quot;</text>
+         id="text8227">&quot;P. agronomica SAICEU22T&quot;</text>
       <text
          x="204.5"
          y="668.95001"
@@ -90058,9 +90057,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="70.160004"
          lengthAdjust="spacingAndGlyphs"
-         id="text8232">&quot;<tspan
-   style="font-style:italic"
-   id="tspan8587">P. algeriensis</tspan> NR3<tspan
+         id="text8232">&quot;P. algeriensis NR3<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan8590">T</tspan>&quot;</text>
       <text
@@ -90583,7 +90580,9 @@
          lengthAdjust="spacingAndGlyphs"
          id="text8287">&quot;<tspan
    style="font-style:italic"
-   id="tspan8641">P. algeriensis </tspan>NR3<tspan
+   id="tspan8641"><tspan
+   style="font-style:normal"
+   id="tspan1">P. algeriensis</tspan> </tspan>NR3<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan8646">T</tspan>&quot;</text>
       <text
@@ -90628,9 +90627,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="96.419998"
          lengthAdjust="spacingAndGlyphs"
-         id="text8292">&quot;<tspan
-   style="font-style:italic"
-   id="tspan8650">P. agronomica</tspan> SAICEU22<tspan
+         id="text8292">&quot;P. agronomica SAICEU22<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan8651">T</tspan>&quot;</text>
       <text
@@ -90821,9 +90818,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="80.389999"
          lengthAdjust="spacingAndGlyphs"
-         id="text8315">&quot;<tspan
-   style="font-style:italic"
-   id="tspan8668">P. eucalypticola</tspan> NP-1<tspan
+         id="text8315">&quot;P. eucalypticola NP-1<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan8662">T</tspan>&quot;</text>
       <text
