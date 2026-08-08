@@ -7,7 +7,7 @@
    id="svg452"
    sodipodi:docname="Lysobacteraceae_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="C:\Users\JHONS\Lysobacteraceae_Tree.png"
+   inkscape:export-filename="Lysobacteraceae_Tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,8 +26,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4142136"
-     inkscape:cx="747.05832"
-     inkscape:cy="324.91557"
+     inkscape:cx="706.75321"
+     inkscape:cy="366.63486"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -1118,8 +1118,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text14"><tspan
-   style="font-style:normal"
-   id="tspan9">&quot;</tspan>Stenotrophomonas</text>
+               style="font-style:normal"
+               id="tspan9">&quot;Stenotrophomonas</tspan></text>
           <text
              x="1185.9092"
              y="1116"
@@ -1137,7 +1137,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text15">nematodicola</text>
+             id="text15"><tspan
+               style="font-style:normal"
+               id="tspan18">nematodicola</tspan></text>
           <text
              x="1310.4307"
              y="1116"
@@ -1776,8 +1778,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text31"><tspan
-   style="font-style:normal"
-   id="tspan7">&quot;</tspan>Stenotrophomonas</text>
+               style="font-style:normal"
+               id="tspan7">&quot;Stenotrophomonas</tspan></text>
           <text
              x="1185.9092"
              y="966"
@@ -1795,7 +1797,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text32">aracearum</text>
+             id="text32"><tspan
+               style="font-style:normal"
+               id="tspan17">aracearum</tspan></text>
           <text
              x="1287.0615"
              y="966"
@@ -2646,8 +2650,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text52"><tspan
-   style="font-style:normal"
-   id="tspan1">&quot;</tspan>Stenotrophomonas</text>
+               style="font-style:normal"
+               id="tspan1">&quot;Stenotrophomonas</tspan></text>
           <text
              x="1185.9092"
              y="756"
@@ -2665,7 +2669,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text53">panacihumi</text>
+             id="text53"><tspan
+               style="font-style:normal"
+               id="tspan16">panacihumi</tspan></text>
           <text
              x="1293.751"
              y="756"
@@ -3178,8 +3184,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text66"><tspan
-   style="font-style:normal"
-   id="tspan11">&quot;</tspan>Xanthomonas</text>
+               style="font-style:normal"
+               id="tspan14">&quot;Xanthomonas</tspan></text>
           <text
              x="1140.3232"
              y="636"
@@ -3197,7 +3203,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text67">surreyensis</text>
+             id="text67"><tspan
+               style="font-style:normal"
+               id="tspan15">surreyensis</tspan></text>
           <text
              x="1248.1357"
              y="636"
@@ -5380,8 +5388,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text122"><tspan
-   style="font-style:normal"
-   id="tspan3">&quot;</tspan>Lysobacter</text>
+               style="font-style:normal"
+               id="tspan3">&quot;Lysobacter</tspan></text>
           <text
              x="1114.376"
              y="126"
@@ -5399,7 +5407,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text123">changpingensis</text>
+             id="text123"><tspan
+               style="font-style:normal"
+               id="tspan13">changpingensis</tspan></text>
           <text
              x="1258.9268"
              y="126"
