@@ -7,7 +7,7 @@
    id="svg2748"
    sodipodi:docname="Streptomyces_Tree_editar.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="C:\Users\JHONS\Streptomyces_Tree.png"
+   inkscape:export-filename="Streptomyces_Tree.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -69,9 +69,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.71804275"
-     inkscape:cx="387.85991"
-     inkscape:cy="156.67591"
+     inkscape:zoom="5.744342"
+     inkscape:cx="389.51372"
+     inkscape:cy="416.84496"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -2132,7 +2132,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text53">&quot;Streptomyces</text>
+             id="text53"><tspan
+               style="font-style:normal"
+               id="tspan104">&quot;Streptomyces</tspan></text>
           <text
              x="-1109.7681"
              y="3.9000001"
@@ -2151,7 +2153,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text54">tibetensis</text>
+             id="text54"><tspan
+               style="font-style:normal"
+               id="tspan103">tibetensis</tspan></text>
           <text
              x="-1051.2363"
              y="3.9000001"
@@ -7426,7 +7430,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text211">&quot;Streptomyces</text>
+             id="text211"><tspan
+               style="font-style:normal"
+               id="tspan101">&quot;Streptomyces</tspan></text>
           <text
              x="-1125.6689"
              y="3.9000001"
@@ -7445,7 +7451,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text212">solaniscabiei</text>
+             id="text212"><tspan
+               style="font-style:normal"
+               id="tspan102">solaniscabiei</tspan></text>
           <text
              x="-1047.6245"
              y="3.9000001"
@@ -7739,7 +7747,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text220">&quot;Streptomyces</text>
+             id="text220"><tspan
+               style="font-style:normal"
+               id="tspan100">&quot;Streptomyces</tspan></text>
           <text
              x="-1170.439"
              y="3.9000001"
@@ -7758,7 +7768,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text221">griseicoloratus</text>
+             id="text221"><tspan
+               style="font-style:normal"
+               id="tspan99">griseicoloratus</tspan></text>
           <text
              x="-1083.0127"
              y="3.9000001"
@@ -13693,7 +13705,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text394">&quot;Streptomyces</text>
+             id="text394"><tspan
+               style="font-style:normal"
+               id="tspan97">&quot;Streptomyces</tspan></text>
           <text
              x="1093.4324"
              y="3.1177766"
@@ -13712,7 +13726,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text395">albicerus</text>
+             id="text395"><tspan
+               style="font-style:normal"
+               id="tspan98">albicerus</tspan></text>
           <text
              x="1149.0696"
              y="3.1177766"
@@ -16063,7 +16079,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text464">&quot;Streptomyces</text>
+             id="text464"><tspan
+               style="font-style:normal"
+               id="tspan96">&quot;Streptomyces</tspan></text>
           <text
              x="1093.3082"
              y="3.4611645"
@@ -16082,7 +16100,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text465">abyssomicinicus</text>
+             id="text465"><tspan
+               style="font-style:normal"
+               id="tspan95">abyssomicinicus</tspan></text>
           <text
              x="1191.5636"
              y="3.4611645"
@@ -19222,7 +19242,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text557">&quot;Streptomyces</text>
+             id="text557"><tspan
+               style="font-style:normal"
+               id="tspan94">&quot;Streptomyces</tspan></text>
           <text
              x="1093.2742"
              y="4.3135886"
@@ -19241,7 +19263,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text558">antnestii</text>
+             id="text558"><tspan
+               style="font-style:normal"
+               id="tspan93">antnestii</tspan></text>
           <text
              x="1145.3059"
              y="4.3135886"
@@ -29580,7 +29604,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text865">&quot;Streptomyces</text>
+             id="text865"><tspan
+               style="font-style:normal"
+               id="tspan91">&quot;Streptomyces</tspan></text>
           <text
              x="1094.5828"
              y="4.1914148"
@@ -29599,7 +29625,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text866">vilmorinianum</text>
+             id="text866"><tspan
+               style="font-style:normal"
+               id="tspan92">vilmorinianum</tspan></text>
           <text
              x="1178.3845"
              y="4.1914148"
@@ -30494,7 +30522,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text891">&quot;Streptomyces</text>
+             id="text891"><tspan
+               style="font-style:normal"
+               id="tspan89">&quot;Streptomyces</tspan></text>
           <text
              x="1093.1818"
              y="4.1612644"
@@ -30513,7 +30543,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text892">marianii</text>
+             id="text892"><tspan
+               style="font-style:normal"
+               id="tspan90">marianii</tspan></text>
           <text
              x="1142.3063"
              y="4.1612644"
@@ -33973,7 +34005,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text994">&quot;Streptomyces</text>
+             id="text994"><tspan
+               style="font-style:normal"
+               id="tspan87">&quot;Streptomyces</tspan></text>
           <text
              x="-1148.7998"
              y="3.9000001"
@@ -33992,7 +34026,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text995">endophytica</text>
+             id="text995"><tspan
+               style="font-style:normal"
+               id="tspan39">endophytica</tspan></text>
           <text
              x="-1075.0781"
              y="3.9000001"
@@ -34121,7 +34157,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text998">&quot;Streptomyces</text>
+             id="text998"><tspan
+               style="font-style:normal"
+               id="tspan86">&quot;Streptomyces</tspan></text>
           <text
              x="-1141.5571"
              y="3.9000001"
@@ -34140,7 +34178,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text999">siderophoricus</text>
+             id="text999"><tspan
+               style="font-style:normal"
+               id="tspan36">siderophoricus</tspan></text>
           <text
              x="-1053.4009"
              y="3.9000001"
@@ -37218,7 +37258,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text1091">&quot;Streptomyces</text>
+             id="text1091"><tspan
+               style="font-style:normal"
+               id="tspan88">&quot;Streptomyces</tspan></text>
           <text
              x="-1082.3018"
              y="3.9000001"
@@ -37237,7 +37279,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text1092">telluris</text>
+             id="text1092"><tspan
+               style="font-style:normal"
+               id="tspan35">telluris</tspan></text>
           <text
              x="-1041.1245"
              y="3.9000001"
