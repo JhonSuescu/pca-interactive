@@ -7,6 +7,9 @@
    id="svg11039"
    sodipodi:docname="Streptomyces_AAI_POCP_heatmap.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:export-filename="Streptomyces_AAI_POCP_heatmap.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -47,9 +50,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="1.359375"
-     inkscape:cx="1587.1264"
-     inkscape:cy="1705.5632"
+     inkscape:zoom="1.9224466"
+     inkscape:cx="127.18169"
+     inkscape:cy="265.02687"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -116861,9 +116864,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="96.110001"
          lengthAdjust="spacingAndGlyphs"
-         id="text10671">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11046">S. endophytica</tspan> HNM0140<tspan
+         id="text10671">&quot;S. endophytica HNM0140<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11189">T</tspan>&quot;</text>
       <text
@@ -116873,9 +116874,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="91.660004"
          lengthAdjust="spacingAndGlyphs"
-         id="text10672">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11187">S. siderophoricus</tspan> CH9-7<tspan
+         id="text10672">&quot;S. siderophoricus CH9-7<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11188">T</tspan>&quot;</text>
       <text
@@ -116925,9 +116924,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="81.300003"
          lengthAdjust="spacingAndGlyphs"
-         id="text10677">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11056">S. vilmorinianum </tspan>YP1<tspan
+         id="text10677">&quot;S. vilmorinianum YP1<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11190">T</tspan>&quot;</text>
       <text
@@ -117203,9 +117200,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="88.410004"
          lengthAdjust="spacingAndGlyphs"
-         id="text10705">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11078">S. albicerus</tspan> TRM68295<tspan
+         id="text10705">&quot;S. albicerus TRM68295<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11191">T</tspan>&quot;</text>
       <text
@@ -117339,9 +117334,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="88.410004"
          lengthAdjust="spacingAndGlyphs"
-         id="text10718">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11098">S. blattellae</tspan> TRM63209<tspan
+         id="text10718">&quot;S. blattellae TRM63209<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11193">T</tspan>&quot;</text>
       <text
@@ -117359,9 +117352,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="81.879997"
          lengthAdjust="spacingAndGlyphs"
-         id="text10720">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11099">S. solaniscabiei</tspan> FS70<tspan
+         id="text10720">&quot;S. solaniscabiei FS70<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11192">T</tspan>&quot;</text>
       <text
@@ -117654,7 +117645,9 @@
          lengthAdjust="spacingAndGlyphs"
          id="text10749">&quot;<tspan
    style="font-style:italic"
-   id="tspan11128">S. solaniscabiei </tspan>FS70<tspan
+   id="tspan11128"><tspan
+   style="font-style:normal"
+   id="tspan4">S. solaniscabiei</tspan> </tspan>FS70<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11194">T</tspan>&quot;</text>
       <text
@@ -117670,9 +117663,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="88.410004"
          lengthAdjust="spacingAndGlyphs"
-         id="text10751">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11129">S. blattellae</tspan> TRM63209<tspan
+         id="text10751">&quot;S. blattellae TRM63209<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11195">T</tspan>&quot;</text>
       <text
@@ -117793,9 +117784,11 @@
          style="font-size:8px;font-family:Arial"
          textLength="88.410004"
          lengthAdjust="spacingAndGlyphs"
-         id="text10764">&quot;<tspan
+         id="text10764"><tspan
    style="font-style:italic"
-   id="tspan11150">S. albicerus </tspan>TRM68295<tspan
+   id="tspan2"><tspan
+   style="font-style:normal"
+   id="tspan3">&quot;S. albicerus</tspan> </tspan>TRM68295<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11196">T</tspan>&quot;</text>
       <text
@@ -118045,9 +118038,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="81.300003"
          lengthAdjust="spacingAndGlyphs"
-         id="text10792">&quot;<tspan
-   style="font-style:italic"
-   id="tspan11178">S. vilmorinianum</tspan> YP1<tspan
+         id="text10792">&quot;S. vilmorinianum YP1<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11198">T</tspan>&quot;</text>
       <text
@@ -118092,11 +118083,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="91.660004"
          lengthAdjust="spacingAndGlyphs"
-         id="text10797"><tspan
-   style="font-style:italic"
-   id="tspan11181">&quot;<tspan
-   style="font-style:normal"
-   id="tspan11182">S</tspan>. siderophoricus</tspan> CH9-7<tspan
+         id="text10797">&quot;S. siderophoricus CH9-7<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11183">T</tspan>&quot;</text>
       <text
@@ -118105,9 +118092,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="96.110001"
          lengthAdjust="spacingAndGlyphs"
-         id="text10798"><tspan
-   style="font-style:italic"
-   id="tspan11206">&quot;S. endophytica</tspan> HNM0140<tspan
+         id="text10798">&quot;S. endophytica HNM0140<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan11207">T</tspan>&quot;</text>
       <text
