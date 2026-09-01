@@ -69,9 +69,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="5.744342"
-     inkscape:cx="389.51372"
-     inkscape:cy="416.84496"
+     inkscape:zoom="11.488684"
+     inkscape:cx="519.33711"
+     inkscape:cy="690.72315"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -4979,7 +4979,7 @@
              xml:space="preserve"><tspan
                x="-1045.4727"
                y="3.9000001"
-               id="tspan12">4326</tspan></text>
+               id="tspan38">4326</tspan></text>
           <text
              x="-1012.9409"
              y="3.9000001"
@@ -9526,7 +9526,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text273">&quot;Streptomyces</text>
+             id="text273"><tspan
+               style="font-style:normal"
+               id="tspan22">&quot;Streptomyces</tspan></text>
           <text
              x="-1136.5107"
              y="3.9000001"
@@ -9545,7 +9547,9 @@
              font-size="13px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text274">blattellae</text>
+             id="text274"><tspan
+               style="font-style:normal"
+               id="tspan37">blattellae</tspan></text>
           <text
              x="-1080.8608"
              y="3.9000001"
