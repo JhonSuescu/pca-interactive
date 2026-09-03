@@ -8,8 +8,8 @@
    sodipodi:docname="Microbacterium_AAI_POCP_heatmap.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    inkscape:export-filename="Microbacterium_AAI_POCP_heatmap.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="220"
+   inkscape:export-ydpi="220"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,9 +39,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="1.9224466"
-     inkscape:cx="190.64249"
-     inkscape:cy="526.67264"
+     inkscape:zoom="0.9612233"
+     inkscape:cx="342.79236"
+     inkscape:cy="308.4611"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -11712,9 +11712,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="38.549999"
          lengthAdjust="spacingAndGlyphs"
-         id="text1076">&quot;<tspan
-   style="font-style:italic"
-   id="tspan1363">M. forte</tspan> A<tspan
+         id="text1076">&quot;M. forte A<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan1398">T</tspan>&quot;</text>
       <text
@@ -11780,9 +11778,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="99.199997"
          lengthAdjust="spacingAndGlyphs"
-         id="text1083">&quot;<tspan
-   style="font-style:italic"
-   id="tspan1351">M. psychrotolerans</tspan> QXD-8<tspan
+         id="text1083">&quot;M. psychrotolerans QXD-8<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan1399">T</tspan>&quot;</text>
       <text
@@ -11814,9 +11810,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="99.199997"
          lengthAdjust="spacingAndGlyphs"
-         id="text1086">&quot;<tspan
-   style="font-style:italic"
-   id="tspan1369">M. psychrotolerans</tspan> QXD-8<tspan
+         id="text1086">&quot;M. psychrotolerans QXD-8<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan1401">T</tspan>&quot;</text>
       <text
@@ -11875,9 +11869,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="38.549999"
          lengthAdjust="spacingAndGlyphs"
-         id="text1093">&quot;<tspan
-   style="font-style:italic"
-   id="tspan1379">M. forte</tspan> A<tspan
+         id="text1093">&quot;M. forte A<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan1400">T</tspan>&quot;</text>
       <text
