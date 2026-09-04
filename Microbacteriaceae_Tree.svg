@@ -8,8 +8,8 @@
    sodipodi:docname="Microbacteriaceae_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    inkscape:export-filename="Microbacteriaceae_Tree.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="220"
+   inkscape:export-ydpi="220"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.61724037"
-     inkscape:cx="485.22426"
-     inkscape:cy="405.83865"
+     inkscape:zoom="1.7458194"
+     inkscape:cx="686.49712"
+     inkscape:cy="339.95498"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="mainHolder"
+     inkscape:current-layer="svg756"
      showgrid="false" />
   <g
      transform="matrix(-0.12857879,-0.074235,0.074235,-0.12857879,687.82841,401.13469)"
@@ -2970,8 +2970,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text73"><tspan
-   style="font-style:normal"
-   id="tspan3">&quot;</tspan>Frigoribacterium</text>
+               style="font-style:normal"
+               id="tspan9">&quot;Frigoribacterium</tspan></text>
           <text
              x="-1245.1172"
              y="13.5"
@@ -2990,7 +2990,9 @@
              font-size="45px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text74">adelgis</text>
+             id="text74"><tspan
+               style="font-style:normal"
+               id="tspan7">adelgis</tspan></text>
           <text
              x="-1090.0122"
              y="13.5"
@@ -8304,8 +8306,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text215"><tspan
-   style="font-style:normal"
-   id="tspan2">&quot;</tspan>Agromyces</text>
+               style="font-style:normal"
+               id="tspan6">&quot;Agromyces</tspan></text>
           <text
              x="-1392.7734"
              y="13.5"
@@ -8324,7 +8326,9 @@
              font-size="45px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text216">aerolatus</text>
+             id="text216"><tspan
+               style="font-style:normal"
+               id="tspan5">aerolatus</tspan></text>
           <text
              x="-1195.1514"
              y="13.5"
@@ -19605,7 +19609,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect658" />
         </g>
         <g
@@ -19643,7 +19647,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect659" />
         </g>
         <g
@@ -19681,7 +19685,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect660" />
         </g>
         <g
@@ -19719,7 +19723,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect661" />
         </g>
         <g
@@ -19757,7 +19761,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect662" />
         </g>
         <g
@@ -19795,7 +19799,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect663" />
         </g>
         <g
@@ -19833,7 +19837,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect664" />
         </g>
         <g
@@ -19871,7 +19875,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect665" />
         </g>
         <g
@@ -19909,7 +19913,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect666" />
         </g>
         <g
@@ -19947,7 +19951,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect667" />
         </g>
         <g
@@ -19985,7 +19989,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect668" />
         </g>
         <g
@@ -20023,7 +20027,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect669" />
         </g>
         <g
@@ -20061,7 +20065,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect670" />
         </g>
         <g
@@ -20099,7 +20103,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect671" />
         </g>
         <g
@@ -20137,7 +20141,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect672" />
         </g>
         <g
@@ -20175,7 +20179,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect673" />
         </g>
         <g
@@ -20213,7 +20217,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect674" />
         </g>
         <g
@@ -20251,7 +20255,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect675" />
         </g>
         <g
@@ -20289,7 +20293,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect676" />
         </g>
         <g
@@ -20327,7 +20331,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect677" />
         </g>
         <g
@@ -20365,7 +20369,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect678" />
         </g>
         <g
@@ -20403,7 +20407,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect679" />
         </g>
         <g
@@ -20441,7 +20445,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect680" />
         </g>
         <g
@@ -20479,7 +20483,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect681" />
         </g>
         <g
@@ -20517,7 +20521,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect682" />
         </g>
         <g
@@ -20555,7 +20559,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect683" />
         </g>
         <g
@@ -20593,7 +20597,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect684" />
         </g>
         <g
@@ -20631,7 +20635,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect685" />
         </g>
         <g
@@ -20669,7 +20673,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect686" />
         </g>
         <g
@@ -20707,7 +20711,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect687" />
         </g>
         <g
@@ -20745,7 +20749,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect688" />
         </g>
         <g
@@ -20783,7 +20787,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect689" />
         </g>
         <g
@@ -20821,7 +20825,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect690" />
         </g>
         <g
@@ -20859,7 +20863,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect691" />
         </g>
         <g
@@ -20897,7 +20901,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect692" />
         </g>
         <g
@@ -20935,7 +20939,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect693" />
         </g>
         <g
@@ -20973,7 +20977,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect694" />
         </g>
         <g
@@ -21011,7 +21015,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect695" />
         </g>
         <g
@@ -21049,7 +21053,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect696" />
         </g>
         <g
@@ -21087,7 +21091,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect697" />
         </g>
         <g
@@ -21125,7 +21129,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect698" />
         </g>
         <g
@@ -21162,7 +21166,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect699" />
         </g>
         <g
@@ -21200,7 +21204,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect700" />
         </g>
         <g
@@ -21238,7 +21242,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect701" />
         </g>
         <g
@@ -21276,7 +21280,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect702" />
         </g>
         <g
@@ -21314,7 +21318,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect703" />
         </g>
         <g
@@ -21352,7 +21356,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect704" />
         </g>
         <g
@@ -21390,7 +21394,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect705" />
         </g>
         <g
@@ -21428,7 +21432,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect706" />
         </g>
         <g
@@ -21466,7 +21470,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect707" />
         </g>
         <g
@@ -21504,7 +21508,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect708" />
         </g>
         <g
@@ -21542,7 +21546,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect709" />
         </g>
         <g
@@ -21580,7 +21584,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect710" />
         </g>
         <g
@@ -21618,7 +21622,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect711" />
         </g>
         <g
@@ -21656,7 +21660,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect712" />
         </g>
         <g
@@ -21694,7 +21698,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect713" />
         </g>
         <g
@@ -21732,7 +21736,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect714" />
         </g>
         <g
@@ -21770,7 +21774,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect715" />
         </g>
         <g
@@ -21808,7 +21812,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect716" />
         </g>
         <g
@@ -21846,7 +21850,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect717" />
         </g>
         <g
@@ -21884,7 +21888,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect718" />
         </g>
         <g
@@ -21922,7 +21926,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect719" />
         </g>
         <g
@@ -21960,7 +21964,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect720" />
         </g>
         <g
@@ -21998,7 +22002,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect721" />
         </g>
         <g
@@ -22036,7 +22040,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect722" />
         </g>
         <g
@@ -22074,7 +22078,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect723" />
         </g>
         <g
@@ -22112,7 +22116,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect724" />
         </g>
         <g
@@ -22150,7 +22154,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect725" />
         </g>
         <g
@@ -22188,7 +22192,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect726" />
         </g>
       </g>
@@ -22869,7 +22873,7 @@
          font-size="15px"
          text-anchor="start"
          style="mix-blend-mode:normal"
-         id="text744">NA</text>
+         id="text744">No</text>
       <path
          d="M 72,376 H 204.36426"
          fill="none"
@@ -23423,7 +23427,7 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal"
+         style="mix-blend-mode:normal;fill:#999999"
          id="rect756" />
       <text
          x="104"
