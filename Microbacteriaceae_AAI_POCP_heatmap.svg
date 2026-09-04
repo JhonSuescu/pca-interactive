@@ -48,8 +48,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.6796875"
-     inkscape:cx="587.77011"
-     inkscape:cy="506.85057"
+     inkscape:cx="474.48276"
+     inkscape:cy="637.7931"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -25457,7 +25457,7 @@
          lengthAdjust="spacingAndGlyphs"
          id="text2332"><tspan
    style="font-style:italic"
-   id="tspan2643">Frigoribacterium endophyticum</tspan> AS3 20</text>
+   id="tspan2643">Frigoribacterium endophyticum</tspan> AS3.20</text>
       <text
          x="624.06"
          y="792.51001"
@@ -25477,9 +25477,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="102.8"
          lengthAdjust="spacingAndGlyphs"
-         id="text2334">&quot;<tspan
-   style="font-style:italic"
-   id="tspan2645">Frigoribacterium adelgis</tspan> D8<tspan
+         id="text2334">&quot;Frigoribacterium adelgis D8<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan2666">T</tspan>&quot;</text>
       <text
@@ -25797,9 +25795,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="102.8"
          lengthAdjust="spacingAndGlyphs"
-         id="text2365">&quot;<tspan
-   style="font-style:italic"
-   id="tspan2683">Frigoribacterium adelgis</tspan> D8<tspan
+         id="text2365">&quot;Frigoribacterium adelgis D8<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan2684">T</tspan>&quot;</text>
       <text
@@ -25821,7 +25817,7 @@
          lengthAdjust="spacingAndGlyphs"
          id="text2367"><tspan
    style="font-style:italic"
-   id="tspan2692">Frigoribacterium endophyticum</tspan> AS3 20</text>
+   id="tspan2692">Frigoribacterium endophyticum</tspan> AS3.20</text>
       <text
          transform="rotate(-90,1008.755,64.355)"
          text-anchor="end"
