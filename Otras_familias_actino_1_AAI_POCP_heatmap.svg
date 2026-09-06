@@ -7,8 +7,8 @@
    id="svg1339"
    sodipodi:docname="Otras_familias_actino_1_AAI_POCP_heatmap.svg"
    inkscape:export-filename="Otras_familias_actino_1_AAI_POCP_heatmap.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="220"
+   inkscape:export-ydpi="220"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -39,9 +39,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="1.63125"
-     inkscape:cx="244.90421"
-     inkscape:cy="579.00383"
+     inkscape:zoom="0.815625"
+     inkscape:cx="377.01149"
+     inkscape:cy="353.71647"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -51,7 +51,7 @@
   <g
      class="svglite"
      id="g1339"
-     transform="translate(-54.252876,-76.321838)">
+     transform="translate(-51.252876,-76.321838)">
     <defs
        id="defs1">
       <style
@@ -11777,7 +11777,9 @@
          lengthAdjust="spacingAndGlyphs"
          id="text1082">&quot;<tspan
    style="font-style:italic"
-   id="tspan1361">Terrabacter humi </tspan>MAHUQ-38<tspan
+   id="tspan1361"><tspan
+   style="font-style:normal"
+   id="tspan1">Terrabacter humi</tspan> </tspan>MAHUQ-38<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan1368">T</tspan>&quot;</text>
       <text
@@ -11828,9 +11830,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="108.56"
          lengthAdjust="spacingAndGlyphs"
-         id="text1087">&quot;<tspan
-   style="font-style:italic"
-   id="tspan1366">Terrabacter humi </tspan>MAHUQ-38<tspan
+         id="text1087">&quot;Terrabacter humi MAHUQ-38<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan1370">T</tspan>&quot;</text>
       <text
