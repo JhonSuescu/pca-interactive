@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.92255338"
-     inkscape:cx="500.24206"
-     inkscape:cy="77.50229"
+     inkscape:zoom="1.3046875"
+     inkscape:cx="681.77245"
+     inkscape:cy="135.28144"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg212" />
+     inkscape:current-layer="treeHolder" />
   <g
      transform="matrix(0.61262,0,0,0.61262,88.648795,69.267163)"
      id="mainHolder"
@@ -639,9 +639,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text13">Kribbella</text>
+             id="text13"><tspan
+               style="font-style:normal"
+               id="tspan2">&quot;Kribbella</tspan></text>
           <text
-             x="1088.3789"
+             x="1094.9082"
              y="396"
              fill="#000000"
              fill-rule="nonzero"
@@ -657,9 +659,11 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text14">steppae</text>
+             id="text14"><tspan
+               style="font-style:normal"
+               id="tspan3">steppae</tspan></text>
           <text
-             x="1165.1074"
+             x="1168.3721"
              y="396"
              fill="#000000"
              fill-rule="nonzero"
@@ -677,7 +681,7 @@
              style="mix-blend-mode:normal"
              id="text15">VKM</text>
           <text
-             x="1214.0039"
+             x="1217.2686"
              y="396"
              fill="#000000"
              fill-rule="nonzero"
@@ -693,7 +697,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text16">Ac-2572T</text>
+             id="text16">Ac-2572<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan4">T</tspan>&quot;</text>
         </g>
         <path
            d="M 927.71418,390 H 889.365"
@@ -920,11 +926,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text21"><tspan
-               style="font-style:normal"
-               id="tspan213">&quot;Kribbella</tspan></text>
+             id="text21">Kribbella</text>
           <text
-             x="1091.6436"
+             x="1088.3789"
              y="336"
              fill="#000000"
              fill-rule="nonzero"
@@ -940,9 +944,7 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text22"><tspan
-               style="font-style:normal"
-               id="tspan1">turkmenica</tspan></text>
+             id="text22">turkmenica</text>
           <text
              x="1191.748"
              y="336"
@@ -962,7 +964,7 @@
              style="mix-blend-mode:normal"
              id="text23">16K104<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan214">T</tspan>&quot;</text>
+   id="tspan214">T</tspan></text>
         </g>
         <path
            d="M 921.45358,330 H 860.36571"
