@@ -8,8 +8,8 @@
    sodipodi:docname="Bartonellaceae_AAI_POCP_heatmap.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    inkscape:export-filename="Bartonellaceae_AAI_POCP_heatmap.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="220"
+   inkscape:export-ydpi="220"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,9 +38,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="2.0390624"
-     inkscape:cx="438.19159"
-     inkscape:cy="461.2414"
+     inkscape:zoom="1.4418349"
+     inkscape:cx="442.83851"
+     inkscape:cy="431.04798"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -6363,9 +6363,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="134.36"
          lengthAdjust="spacingAndGlyphs"
-         id="text585">&quot;<tspan
-   style="font-style:italic"
-   id="tspan851">Phyllobacterium chamaecytisi </tspan>KW56<tspan
+         id="text585">&quot;Phyllobacterium chamaecytisi KW56<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan2">T</tspan>&quot;</text>
       <text
@@ -6641,9 +6639,7 @@
          style="font-size:8px;font-family:Arial"
          textLength="134.36"
          lengthAdjust="spacingAndGlyphs"
-         id="text612">&quot;<tspan
-   style="font-style:italic"
-   id="tspan887">Phyllobacterium chamaecytisi</tspan> KW56<tspan
+         id="text612">&quot;Phyllobacterium chamaecytisi KW56<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan3">T</tspan>&quot;</text>
       <text
