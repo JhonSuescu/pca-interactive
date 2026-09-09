@@ -8,8 +8,8 @@
    sodipodi:docname="Bartonellaceae_Tree.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    inkscape:export-filename="Bartonellaceae_Tree.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="220"
+   inkscape:export-ydpi="220"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.2344807"
-     inkscape:cx="455.65718"
-     inkscape:cy="126.77395"
+     inkscape:zoom="0.87290967"
+     inkscape:cx="671.89082"
+     inkscape:cy="100.23947"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -756,8 +756,8 @@
              text-anchor="start"
              style="mix-blend-mode:normal"
              id="text10"><tspan
-   style="font-style:normal"
-   id="tspan2">&quot;</tspan>Phyllobacterium</text>
+               style="font-style:normal"
+               id="tspan3">&quot;Phyllobacterium</tspan></text>
           <text
              x="1158.9614"
              y="426"
@@ -775,7 +775,9 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text11">chamaecytisi</text>
+             id="text11"><tspan
+               style="font-style:normal"
+               id="tspan4">chamaecytisi</tspan></text>
           <text
              x="1280.1138"
              y="426"
