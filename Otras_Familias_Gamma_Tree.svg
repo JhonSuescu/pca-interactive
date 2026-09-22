@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.65234375"
-     inkscape:cx="544.95808"
-     inkscape:cy="66.682635"
+     inkscape:cx="618.53892"
+     inkscape:cy="54.419162"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -4744,7 +4744,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect157" />
         </g>
         <g
@@ -4781,7 +4781,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect158" />
         </g>
         <g
@@ -4818,7 +4818,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect159" />
         </g>
         <g
@@ -4855,7 +4855,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect160" />
         </g>
         <g
@@ -4892,7 +4892,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect161" />
         </g>
         <g
@@ -4929,7 +4929,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect162" />
         </g>
         <g
@@ -4966,7 +4966,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect163" />
         </g>
         <g
@@ -5003,7 +5003,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect164" />
         </g>
         <g
@@ -5040,7 +5040,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect165" />
         </g>
         <g
@@ -5077,7 +5077,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect166" />
         </g>
         <g
@@ -5114,7 +5114,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect167" />
         </g>
         <g
@@ -5151,7 +5151,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect168" />
         </g>
         <g
@@ -5188,7 +5188,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect169" />
         </g>
         <g
@@ -5225,7 +5225,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect170" />
         </g>
         <g
@@ -5262,7 +5262,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect171" />
         </g>
         <g
@@ -5299,7 +5299,7 @@
              font-weight="none"
              font-size="none"
              text-anchor="none"
-             style="mix-blend-mode:normal"
+             style="mix-blend-mode:normal;fill:#999999"
              id="rect172" />
         </g>
       </g>
@@ -6359,7 +6359,7 @@
          font-weight="none"
          font-size="none"
          text-anchor="none"
-         style="mix-blend-mode:normal"
+         style="mix-blend-mode:normal;fill:#999999"
          id="rect198" />
       <text
          x="249.86227"
