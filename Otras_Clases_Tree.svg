@@ -26,14 +26,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.61724037"
-     inkscape:cx="353.99499"
-     inkscape:cy="260.02836"
+     inkscape:cx="399.3582"
+     inkscape:cy="396.11797"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="mainHolder" />
+     inkscape:current-layer="svg581" />
   <g
      transform="matrix(0.54483,0,0,0.54483,78.642126,47.691553)"
      id="mainHolder"
@@ -920,7 +920,7 @@
              font-size="20px"
              text-anchor="start"
              style="mix-blend-mode:normal"
-             id="text22">Piscinibacter</text>
+             id="text22">Rhizobacter</text>
           <text
              x="1123.9355"
              y="1206"
@@ -12815,23 +12815,6 @@
            style="mix-blend-mode:normal"
            id="path435" />
         <path
-           d="m 1518.5898,1215 h 26 v -30 h -26 v 30"
-           fill="#7accb1"
-           fill-rule="nonzero"
-           stroke="#7accb1"
-           stroke-width="0.5"
-           stroke-linecap="square"
-           stroke-linejoin="miter"
-           stroke-miterlimit="10"
-           stroke-dasharray="none"
-           stroke-dashoffset="0"
-           font-family="none"
-           font-weight="none"
-           font-size="none"
-           text-anchor="none"
-           style="mix-blend-mode:normal"
-           id="path436" />
-        <path
            d="m 1518.5898,1245 h 26 v -30 h -26 v 30"
            fill="#925136"
            fill-rule="nonzero"
@@ -12848,6 +12831,23 @@
            text-anchor="none"
            style="mix-blend-mode:normal"
            id="path437" />
+        <path
+           d="m 1518.6188,1215.3154 h 26 v -30 h -26 v 30"
+           fill="#925136"
+           fill-rule="nonzero"
+           stroke="#925136"
+           stroke-width="0.5"
+           stroke-linecap="square"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           id="path437-9" />
         <path
            d="m 1518.5898,1155 h 26 v -30 h -26 v 30"
            fill="#ceb2ab"
@@ -16435,15 +16435,15 @@
        style="mix-blend-mode:normal"
        id="g576">
       <rect
-         x="62"
-         y="474"
-         width="162.5708"
-         height="420"
+         x="61.990108"
+         y="473.99011"
+         width="162.59059"
+         height="387.37036"
          fill-opacity="0.8"
          fill="#ffffff"
          fill-rule="nonzero"
          stroke="#eeeeee"
-         stroke-width="0.5"
+         stroke-width="0.480214"
          stroke-linecap="butt"
          stroke-linejoin="miter"
          stroke-miterlimit="10"
@@ -16838,46 +16838,6 @@
          y="776"
          width="20"
          height="20"
-         fill="#7accb1"
-         fill-rule="nonzero"
-         stroke="#000000"
-         stroke-width="0.5"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="none"
-         font-weight="none"
-         font-size="none"
-         text-anchor="none"
-         style="mix-blend-mode:normal"
-         id="rect573" />
-      <text
-         x="97"
-         y="790.5"
-         fill="#000000"
-         fill-rule="nonzero"
-         stroke="none"
-         stroke-width="1"
-         stroke-linecap="butt"
-         stroke-linejoin="miter"
-         stroke-miterlimit="10"
-         stroke-dasharray="none"
-         stroke-dashoffset="0"
-         font-family="Arial"
-         font-weight="normal"
-         font-size="15px"
-         text-anchor="start"
-         style="mix-blend-mode:normal"
-         id="text573"><tspan
-           style="font-style:italic"
-           id="tspan594">Piscinibacter</tspan></text>
-      <rect
-         x="67"
-         y="806"
-         width="20"
-         height="20"
          fill="#925136"
          fill-rule="nonzero"
          stroke="#000000"
@@ -16895,7 +16855,7 @@
          id="rect574" />
       <text
          x="97"
-         y="820.5"
+         y="790.5"
          fill="#000000"
          fill-rule="nonzero"
          stroke="none"
@@ -16915,7 +16875,7 @@
            id="tspan595">Rhizobacter</tspan></text>
       <rect
          x="67"
-         y="836"
+         y="806"
          width="20"
          height="20"
          fill="#ceb2ab"
@@ -16935,7 +16895,7 @@
          id="rect575" />
       <text
          x="97"
-         y="850.5"
+         y="820.5"
          fill="#000000"
          fill-rule="nonzero"
          stroke="none"
@@ -16955,7 +16915,7 @@
            id="tspan596">Roseateles</tspan></text>
       <rect
          x="67"
-         y="866"
+         y="836"
          width="20"
          height="20"
          fill="#512f67"
@@ -16975,7 +16935,7 @@
          id="rect576" />
       <text
          x="97"
-         y="880.5"
+         y="850.5"
          fill="#000000"
          fill-rule="nonzero"
          stroke="none"
